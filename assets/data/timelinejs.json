@@ -3,11 +3,11 @@
         "media": {
           "url": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/moscow/01-01-048.jpg",
           "caption": null,
-          "credit": "Moscow Collection"
+          "credit": "Historic Images of Moscow"
         },
         "text": {
-          "headline": "Moscow Collection Timeline",
-          "text": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+          "headline": "Historic Images of Moscow Timeline",
+          "text": "Historic photos of people, places, and events from Moscow's founding to the present day."
         }
     },
     "events": [

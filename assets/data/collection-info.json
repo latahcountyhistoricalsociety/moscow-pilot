@@ -1,8 +1,8 @@
 { 
-    "title": "Moscow Collection",
+    "title": "Historic Images of Moscow",
     "url": "https://latahcountyhistoricalsociety.github.io/moscow-pilot/",
     "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/moscow/01-01-048.jpg", 
-    "description": "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology.",
+    "description": "Historic photos of people, places, and events from Moscow's founding to the present day.",
     "publisher": { 
         "name": "Latah County Historical Society", 
         "url": "https://www.latahcountyhistoricalsociety.org/", 
@@ -15,6 +15,6 @@
         
     },
     "data": "https://latahcountyhistoricalsociety.github.io/moscow-pilot/assets/data/datapackage.json",
-    "last_build_date": "2021-08-17"
+    "last_build_date": "2021-10-14"
 }
 
