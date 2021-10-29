@@ -1,7 +1,7 @@
 { 
     "title": "Historic Images of Moscow, Idaho",
     "url": "https://latahcountyhistoricalsociety.github.io/moscow-pilot/",
-    "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/moscow/01-01-048.jpg", 
+    "image": "/moscow-pilot/assets/img/01-01-048_opt.jpg", 
     "description": "Historic photos of people, places, and events from Moscow's founding to the present day.",
     "publisher": { 
         "name": "Latah County Historical Society", 

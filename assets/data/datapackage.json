@@ -12,7 +12,7 @@
             "role": "author"
         }
     ],
-    "image": "https://latahcountyhistory.sfo3.digitaloceanspaces.com/moscow/01-01-048.jpg",
+    "image": "/moscow-pilot/assets/img/01-01-048_opt.jpg",
     "licenses": [
         {
             "name": "CC0-1.0",
@@ -67,41 +67,6 @@
             "profile": "data-resource"
         },
         
-        {
-            "name": "locations-csv",
-            "path": "subjects.csv",
-            "title": "Historic Images of Moscow, Idaho metadata location counts in csv",
-            "description": "Unique values and counts of metadata location fields.",
-            "format":"csv",
-            "profile":"tabular-data-resource",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "location",
-                        "type": "string",
-                        "format": "default"
-                    },
-                    {
-                        "name": "count",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "link",
-                        "type": "string",
-                        "format": "default"
-                    }
-                ]
-            }
-        },
-        {
-            "name": "locations-json",
-            "path": "locations.json",
-            "title": "Historic Images of Moscow, Idaho metadata location counts in json",
-            "description":"Unique values and counts of metadata location fields.",
-            "format":"json",
-            "profile": "data-resource"
-        },
         
         
         {
