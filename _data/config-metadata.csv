@@ -11,7 +11,7 @@ locationCreated:placename,Location Created,
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier
+identifier,Identifier
 type,Type,,DCTERMS.type
 format,Format,,,encodingFormat
 rightsstatement,,,DCTERMS.rights,license
