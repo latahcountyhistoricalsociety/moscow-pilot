@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
-    "name": "historic-images-of-moscow-data",
-    "title": "Historic Images of Moscow Data",
-    "description": "Metadata and data derived from Historic Images of Moscow. Historic photos of people, places, and events from Moscow&#39;s founding to the present day.",
+    "name": "historic-images-of-moscow-idaho-data",
+    "title": "Historic Images of Moscow, Idaho Data",
+    "description": "Metadata and data derived from Historic Images of Moscow, Idaho. Historic photos of people, places, and events from Moscow&#39;s founding to the present day.",
     "keywords":  ["idaho","history","inland northwest","Moscow, ID"],
     "homepage": "https://latahcountyhistoricalsociety.github.io/moscow-pilot/",
     "contributors": [
@@ -25,7 +25,7 @@
         {
             "name": "facets-json",
             "path": "facets.json",
-            "title": "Historic Images of Moscow Metadata Facets",
+            "title": "Historic Images of Moscow, Idaho Metadata Facets",
             "description":"Unique values and counts of metadata facet fields.",
             "format":"json",
             "profile": "data-resource"
@@ -34,7 +34,7 @@
         {
             "name": "subject-csv",
             "path": "subjects.csv",
-            "title": "Historic Images of Moscow metadata subject counts in csv",
+            "title": "Historic Images of Moscow, Idaho metadata subject counts in csv",
             "description": "Unique values and counts of metadata subject fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -61,7 +61,7 @@
         {
             "name": "subjects-json",
             "path": "subjects.json",
-            "title": "Historic Images of Moscow  metadata subject counts in json",
+            "title": "Historic Images of Moscow, Idaho  metadata subject counts in json",
             "description":"Unique values and counts of metadata subject fields.",
             "format":"json",
             "profile": "data-resource"
@@ -70,7 +70,7 @@
         {
             "name": "locations-csv",
             "path": "subjects.csv",
-            "title": "Historic Images of Moscow metadata location counts in csv",
+            "title": "Historic Images of Moscow, Idaho metadata location counts in csv",
             "description": "Unique values and counts of metadata location fields.",
             "format":"csv",
             "profile":"tabular-data-resource",
@@ -97,7 +97,7 @@
         {
             "name": "locations-json",
             "path": "locations.json",
-            "title": "Historic Images of Moscow metadata location counts in json",
+            "title": "Historic Images of Moscow, Idaho metadata location counts in json",
             "description":"Unique values and counts of metadata location fields.",
             "format":"json",
             "profile": "data-resource"
@@ -107,7 +107,7 @@
         {
             "name": "timeline-json",
             "path": "timelinejs.json",
-            "title": "Historic Images of Moscow timeline metadata",
+            "title": "Historic Images of Moscow, Idaho timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
@@ -115,16 +115,16 @@
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
-            "title": "Historic Images of Moscow full metadata in csv",
-            "description": "Complete metadata export for Historic Images of Moscow objects.",
+            "title": "Historic Images of Moscow, Idaho full metadata in csv",
+            "description": "Complete metadata export for Historic Images of Moscow, Idaho objects.",
             "format":"csv",
             "profile":"data-resource"
         },
         {
             "name": "metadata-json",
             "path": "metadata.json",
-            "title": "Historic Images of Moscow full metadata in json",
-            "description": "Complete metadata export for Historic Images of Moscow objects.",
+            "title": "Historic Images of Moscow, Idaho full metadata in json",
+            "description": "Complete metadata export for Historic Images of Moscow, Idaho objects.",
             "format":"json",
             "profile":"data-resource"
         }

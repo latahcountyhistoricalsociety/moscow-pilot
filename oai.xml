@@ -5,7 +5,7 @@
             xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
                                 http://www.openarchives.org/OAI/2.0/static-repository.xsd">
     <Identify>
-        <oai:repositoryName>Historic Images of Moscow</oai:repositoryName>
+        <oai:repositoryName>Historic Images of Moscow, Idaho</oai:repositoryName>
         <oai:baseURL>http://gateway.institution.org/oai/latahcountyhistoricalsociety.github.io/moscow-pilot/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
