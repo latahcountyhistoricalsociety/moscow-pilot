@@ -1,6 +1,17 @@
 { "locations": [
     { "location" : "moscow, idaho", "count" : 1110, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#moscow,%20idaho" },
-    { "location" : "pullman, wa", "count" : 6, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#pullman,%20wa" },
+    { "location" : "moscow, id", "count" : 964, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#moscow,%20id" },
+    { "location" : "pullman, wa", "count" : 22, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#pullman,%20wa" },
+    { "location" : "4 mi se of moscow, id", "count" : 2, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#4%20mi%20se%20of%20moscow,%20id" },
     { "location" : "troy, idaho", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#troy,%20idaho" },
-    { "location" : "lewiston, idaho", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#lewiston,%20idaho" }
+    { "location" : "lewiston, idaho", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#lewiston,%20idaho" },
+    { "location" : "paradise valley (moscow)", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#paradise%20valley%20(moscow)" },
+    { "location" : "2nd st., moscow, id", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#2nd%20st.,%20moscow,%20id" },
+    { "location" : "moscow. id", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#moscow.%20id" },
+    { "location" : "mosocw, id", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#mosocw,%20id" },
+    { "location" : "4 mi east of moscow, id", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#4%20mi%20east%20of%20moscow,%20id" },
+    { "location" : "area of moscow, id", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#area%20of%20moscow,%20id" },
+    { "location" : "1 mi south of tomer butte", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#1%20mi%20south%20of%20tomer%20butte" },
+    { "location" : "south of tomer butte, id", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#south%20of%20tomer%20butte,%20id" },
+    { "location" : "moscow", "count" : 1, "link" : "https://latahcountyhistoricalsociety.github.io/moscow-pilot/browse.html#moscow" }
 ]}

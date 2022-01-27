@@ -8,13 +8,13 @@
         "url": "https://www.latahcountyhistoricalsociety.org/", 
         "logo": "/assets/img/lchs_website_logo.webp" 
     },
-    "date_start": "1870",
-    "date_end": "2008",
+    "date_start": "1800",
+    "date_end": "2012",
     "objects": {
-        "image/jpeg": "1173"
+        "image/jpeg": "2166"
         
     },
     "data": "https://latahcountyhistoricalsociety.github.io/moscow-pilot/assets/data/datapackage.json",
-    "last_build_date": "2021-10-29"
+    "last_build_date": "2022-01-27"
 }
 

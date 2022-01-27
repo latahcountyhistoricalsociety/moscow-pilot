@@ -4690,4 +4690,3976 @@ var store = [{
 "title": "Shull Brothers Pest Control Van","date": "1946","description": "The Shull Brother's pest control service van belonging in front of 216 Cherry St, Moscow, which was built in 1938.","subject": "Shull; The Brothers; Pest Control; Cherry Street; We kill bugs; Idaho","location": "Moscow, Idaho", 
 "id": "01-04-050"
 
+},{  
+"title": "Cornwall House","date": "1889","description": "The Mason A. Cornwall home at 208 South Hayes, which is at the corner of 3rd Street & Hayes Street.","subject": "Cornwall; 3rd Street; Hayes Street; Neighborhood; Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-001"
+
+},{  
+"title": "Mason A. Cornwall Home","date": "1889","description": "The home of Mason A. Cornwall which is located at 208 South Hayes Street.","subject": "Cornwall; 3rd Street; Hayes Street; Neighborhood; Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-001b"
+
+},{  
+"title": "One of the Oldest Houses","date": "1890","description": "One of the oldest houses in Moscow, where Carnegie Library now stands.","subject": "Residential; Carter; Neighborhood; Carnegie Library; Wood Sidewalks; Idaho","location": "Moscow, ID", 
+"id": "01-05-002"
+
+},{  
+"title": "Lundquist Home","date": "1890","description": "The home of the Lundquist's originally located on E Street and 7th Street, but was eventually moved to Logan Street and 8th Street.","subject": "Residential; Neighborhood; Lundquist; 8th Street; E Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-003"
+
+},{  
+"title": "A Residential Home","date": "1890","description": "An unidentified house in a residential neighborhood, with Gladys Langdon, Joe Collins, Jessie Whidley, Harold and Kenneth Collins standing in the front.","subject": "Residential; Neighborhood; Collins; Whidley; Langdon; Idaho","location": "Moscow, ID", 
+"id": "01-05-004"
+
+},{  
+"title": "John H. McCallie House","date": "1900","description": "Mrs. Julia McCallie sits outside on a winter day holding her daughter Annette and son Walter Horton in front of their home, the very first house on University Hill.","subject": "Residential; McCallie; University Hill; Annette; Walter Horton; John and Julia","location": "Moscow, ID", 
+"id": "01-05-005"
+
+},{  
+"title": "Charles J. Munson's Farm Home","date": "1900","description": "Charles Munson's \"Cozy Cove\", a farm home occupied by the family from 1890's to 1940's.","subject": "Cozy Cove; Munson; Farm; Residential; Neighborhood; Idaho","location": "Moscow, ID", 
+"id": "01-05-006"
+
+},{  
+"title": "Charles Munson's Farm","date": "1900","description": "Charles Munson's farm house and outbuildings, looking north toward Moscow Mountain.","subject": "Cozy Cove; Munson; Moscow Mountain; Farm; Barn; Idaho","location": "Moscow, ID", 
+"id": "01-05-007"
+
+},{  
+"title": "Jerome J Day House","date": "1890","description": "Jerome J Day House at the corner of Van Buren Street and A Street, with an old car in front containing 4 adults and 3 children.","subject": "Jerome J Day; Ford Model T; Victorian; Harry Marsh; Neighborhood; Idaho","location": "Moscow, ID", 
+"id": "01-05-008"
+
+},{  
+"title": "House Building","date": "1890","description": "Edward McConnell House being built by (left to right) Abe Fenn, Ed McConnell, E.T. McConnell and Bill McConnell, at Hayes Street and E Street, looking north east.","subject": "McConnell; Fenn; Construction; House; Hayes Street; E Street","location": "Moscow, ID", 
+"id": "01-05-009"
+
+},{  
+"title": "J. Gilchrist's House","date": "1900","description": "A postcard showing J. Gilchrist's house, looking like a Craftsman home, originally ordered from Sear's and Roebuck catalogs.","subject": "Gilchrist; Taylor; Craftsman; House; Postcard; Idaho","location": "Moscow, ID", 
+"id": "01-05-010"
+
+},{  
+"title": "I.L. Osterhout House","date": "1900","description": "A postcard showing I.L. Osterhouse home.","subject": "Residential; Neighborhood; Craftsman; House; Postcard; Idaho","location": "Moscow, ID", 
+"id": "01-05-011"
+
+},{  
+"title": "Jerome J. Day House in Snow","date": "1940","description": "A man shoveling the snow off the second floor balcony of the Jerome J Day house.","subject": "Residential; Jerome J Day; Snow; Balcony; Winter; Idaho","location": "Moscow, ID", 
+"id": "01-05-012"
+
+},{  
+"title": "Mason Cornwall House","date": "1940","description": "A view of the front of the Mason A Cornwall house.","subject": "Residential; Neighborhood; Mason Cornwall; House; Bricks; Idaho","location": "Moscow, ID", 
+"id": "01-05-013"
+
+},{  
+"title": "Herb Johnson's Childhood Home","date": "1920","description": "Herb Johnson's childhood home, which he moved to in 1886, is a few miles north east of Moscow..","subject": "Residential; Herb Johnson; Farm; Picket Fence; Shed; Idaho","location": "Moscow, ID", 
+"id": "01-05-014"
+
+},{  
+"title": "William Taylor Pioneer Home","date": "1890","description": "The William Taylor Pioneer home, with 10 year old Alma Lauder is standing on the porch. The home sat on what is now Palouse River Drive, but was purchased and torn down from the County Commissioners to make a parking lot for the Latah Convelescent Center.","subject": "Farm; Pioneer; William Taylor; County Commissioners; Alma Lauder; Idaho","location": "Moscow, ID", 
+"id": "01-05-016"
+
+},{  
+"title": "A.C. Gilbert House","date": "1980","description": "The A. C. Gilbert House at 203 South Jackson taken in 1980 when it was \"A Show of Hands,\" with a Volkswagon Bug parked in front.","subject": "Residential; Volkswagon; A.C. Gilbert; Jackson Street; Neighborhood; Idaho","location": "Moscow, ID", 
+"id": "01-05-017"
+
+},{  
+"title": "The House of A.C. Gilbert","date": "1980","description": "The home of A.C. Gilbert on 203 South Jackson with several cars parked in front.","subject": "Residential; Volkswagon; A.C. Gilbert; Jackson Street; Neighborhood; Idaho","location": "Moscow, ID", 
+"id": "01-05-017b"
+
+},{  
+"title": "Front of A.C. Gilbert House","date": "1980","description": "The front of the A.C. Gilbert house with a hanging on the porch that says \"One More Time.\"","subject": "Residential; One More Time; A.C. Gilbert; Jackson Street; Neighborhood; Idaho","location": "Moscow, ID", 
+"id": "01-05-018"
+
+},{  
+"title": "Right Corner of A.C. Gilbert House","date": "1980","description": "The front right corner of A.C. Gilbert's home with a hanging on the porch that says \"One More Time\" and a Chevy Camaro parked in the front.","subject": "Residential; Camaro; A.C. Gilbert; Jackson Street; One More Time; Idaho","location": "Moscow, ID", 
+"id": "01-05-018b"
+
+},{  
+"title": "Myron A. Tuttle House","date": "1935","description": "A woman stands on the porch of the Myron A. Tuttle family home located on 724 East 7th Street, their home from June 1920 to Sept 1935.","subject": "Residential; Myron Tuttle; 7th Street; Neighborhood; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-019"
+
+},{  
+"title": "Almon Asbury Lieuallen House","date": "1980","description": "The Almon Asbury Lieuallen house on Almon Street with the addition of the covered porch and balcony.","subject": "Residential; Lieuallen; Almon Asbury; Almon Street; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-020"
+
+},{  
+"title": "A. A. Lieuallen House","date": "1900","description": "Two women and a child stand in the front of the Almon Asbury Lieuallen house with the original small uncovered porch.","subject": "Residential; Lieuallen; Almon Asbury; Almon Street; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-021"
+
+},{  
+"title": "Mason Cornwall House Between the Trees","date": "1980","description": "The Mason Cornwall home located on 3rd Street and Hayes St.","subject": "Residential; Mason Cornwall; Hayes Street; 3rd Street; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-022"
+
+},{  
+"title": "Side View of the Mason Cornwall House","date": "1980","description": "A side view of the Mason Cornwall home showing rhe turret rooms.","subject": "Residential; Mason Cornwall; Hayes Street; 3rd Street; Turret; Idaho","location": "Moscow, ID", 
+"id": "01-05-023"
+
+},{  
+"title": "Turret Rooms at the Mason Cornwall House","date": "1980","description": "A view of the front of the Mason Cornwall House located on 3rd Street and Hayes Street.","subject": "Residential; Mason Cornwall; Hayes Street; 3rd Street; Turret; Idaho","location": "Moscow, ID", 
+"id": "01-05-024"
+
+},{  
+"title": "Panoramic View of of Moscow","date": "1885","description": "A panoramic view of Moscow, to include McConnell Mansion which is located in the black square.","subject": "Residential; McConnell Mansion; Neighborhood; Panoramic; Railroad; Idaho","location": "Moscow, ID", 
+"id": "01-05-025"
+
+},{  
+"title": "McConnell Mansion","date": "1885","description": "The right corner of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Neighborhood; Family; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-026"
+
+},{  
+"title": "Family in Front of the McConnell Mansion","date": "1890","description": "Mrs May Hannah McConnell, daughter Mayme ( McConnell) Borah and Ollie (McConnell) Lueddemn standing in front of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Neighborhood; Mayrne; Ollie; May","location": "Moscow, ID", 
+"id": "01-05-027"
+
+},{  
+"title": "Southwest Corner of McConnell Mansion","date": "1890","description": "A ground up view of the south east corner of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Neighborhood; Family; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-028"
+
+},{  
+"title": "Shaded Mason Cornwall House","date": "1900","description": "The Mason Cornwall House shaded by some trees at 3rd Street and Hayes Street intersection.","subject": "Residential; Mason Cornwall; Neighborhood; Hayes Street; 3rd Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-029"
+
+},{  
+"title": "Flag Flying in Front of the McConnell Mansion","date": "1967","description": "A flag flies at the south east corner of the McConnell Mansion which is located at the intersection of 3rd Street and Hayes Street.","subject": "Residential; McConnell Mansion; Neighborhood; Flag; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-030"
+
+},{  
+"title": "Front of the McConnell Mansion","date": "1967","description": "A close up image of the McConnell Mansion showing the covered front porch.","subject": "Residential; McConnell Mansion; Neighborhood; Flag; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-031"
+
+},{  
+"title": "Fenced McConnell Mansion","date": "1900","description": "The McConnell Mansion and Adair home, showing unpaved streets, conservatory still on front of porch, picket fence around the yard, railing around upstairs balcony, with gingerbread on roof.","subject": "Residential; McConnell Mansion; Neighborhood; Family; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-033"
+
+},{  
+"title": "Back Corner of McConnell Mansion","date": "1940","description": "The back corner of the McConnell Mansion once the picket fence was removed, showing another residence across the street.","subject": "Residential; McConnell Mansion; Neighborhood; Chimney; House; Idaho","location": "Moscow, ID", 
+"id": "01-05-034"
+
+},{  
+"title": "Street Corner and McConnell Mansion","date": "1970","description": "The intersection of 2nd Street and Adams Street showing the McConnell Mansion, on the south west side of the house, with a flag pole, flag, and street signs.","subject": "Residential; McConnell Mansion; Flag; 2nd Street; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-035"
+
+},{  
+"title": "2nd Street View of the McConnell Mansion","date": "1980","description": "A view of the McConnell Mansion from 2nd Street with cars parked along the road.","subject": "Residential; McConnell Mansion; Flag Pole; 2nd Street; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-036"
+
+},{  
+"title": "McConnell Mansion Restoration","date": "1980","description": "Person opening a window atop the balcony at the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; 2nd Street; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-037"
+
+},{  
+"title": "Restoration of the McConnell Mansion","date": "1980","description": "The back porch restoration of the McConnell Mansion, showing the planks being removed.","subject": "Residential; McConnell Mansion; Restoration; 2nd Street; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-038"
+
+},{  
+"title": "Front Porch Restoration of the McConnell Mansion","date": "1980","description": "A view of the restoration of the back porch railing at the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; 2nd Street; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-039"
+
+},{  
+"title": "McConnell Mansion Chimney and Roof","date": "1980","description": "A view of the chimney on the roof of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Chimney; 2nd Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-040"
+
+},{  
+"title": "McConnell Mansion Siding Restoration","date": "1980","description": "A worker standing on top of the south balcony of the McConnell Mansion fixing the siding.","subject": "Residential; McConnell Mansion; Restoration; Siding; 2nd Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-041"
+
+},{  
+"title": "Chimney Restoration","date": "1980","description": "A view of the chimney on the roof of the McConnell Mansion with the top portion removed to allow for repair.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-042"
+
+},{  
+"title": "Seperating Chimney Bricks","date": "1980","description": "The chimney on the roof of the McConnell Mansion showing how the bricks are seperating and breaking apart.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-042b"
+
+},{  
+"title": "Side View of McConnell Mansion Chimney","date": "1980","description": "The side of the chimney on the roof of the McConnell Mansion showing the bricks that are seperating.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-042c"
+
+},{  
+"title": "Repairing of the McConnell Mansion Chimney","date": "1980","description": "The McConnell Mansion chimney is wrapped with chicken wire to keep the bricks together as they restore it.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-042d"
+
+},{  
+"title": "Chimney Restoration Close Up","date": "1980","description": "A close up of the chimney restoration, showing the chicken wire wrapped around the chimney and the top bricks removed.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-042e"
+
+},{  
+"title": "Second Floor Balcony and Window","date": "1980","description": "A second floor balcony and window at the McConnell Mansion located at the corner of Adams Street and 2nd Street.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-043"
+
+},{  
+"title": "Second Floor Window","date": "1980","description": "A ground up image of a second floor window and the ornate decorations along the roof line.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Roof; Idaho","location": "Moscow, ID", 
+"id": "01-05-044"
+
+},{  
+"title": "Front Porch of the McConnell Mansion","date": "1980","description": "The front covered porch of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Porch; Balcony; Idaho","location": "Moscow, ID", 
+"id": "01-05-045"
+
+},{  
+"title": "South Side of the McConnell Mansion","date": "1980","description": "The south side of McConnell Mansion looking east, showing flower pots in the yard and the base of the flag pole.","subject": "Residential; McConnell Mansion; Restoration; Flag Pole; Flower Pots; Idaho","location": "Moscow, ID", 
+"id": "01-05-046"
+
+},{  
+"title": "Second Floor Window of the McConnell Mansion","date": "1980","description": "A ground up image of the second floor window of the McConnell Mansion showing the large windows and ornate roof line.","subject": "Residential; McConnell Mansion; Restoration; Windows; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-047"
+
+},{  
+"title": "Second Floor Balcony Restoration","date": "1980","description": "A large second floor balcony at the McConnell Mansion, which is part of the overall house restoration.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-048"
+
+},{  
+"title": "South Side Balcony of the McConnell Mansion","date": "1980","description": "The second floor balcony on the south side of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-049"
+
+},{  
+"title": "Weathered South Side Balcony","date": "1980","description": "A complete view of the weathering on the south side second floor balcony on the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-050"
+
+},{  
+"title": "Second Chimney at the McConnell Mansion","date": "1980","description": "An image of two chimneys on the roof of the McConnell Mansion during its restoration.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-051"
+
+},{  
+"title": "Chimney Restoration","date": "1980","description": "An image of the chimney on the roof of the McConnell Mansion showing the cars on Adams Street and the buildings across the road.","subject": "Residential; McConnell Mansion; Restoration; Chimney; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-052"
+
+},{  
+"title": "Restoration of McConnell Mansion Back Porch","date": "1980","description": "The restoration of the back porch as the wood planks have been removed.","subject": "Residential; McConnell Mansion; Restoration; Back Porch; Construction; Idaho","location": "Moscow, ID", 
+"id": "01-05-053"
+
+},{  
+"title": "A Repaired Back Porch","date": "1980","description": "The McConnell Mansion back porch fully repaired with new boards, but the railing is still missing some pieces.","subject": "Residential; McConnell Mansion; Restoration; Back Porch; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-054"
+
+},{  
+"title": "Railing on Back Porch","date": "1980","description": "The railing around the back porch of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Back Porch; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-055"
+
+},{  
+"title": "Worker Painting the Front Porch of the McConnell Mansion","date": "1980","description": "Two workers restoring the McConnell Mansion, specifically working on painting the porch on the first floor and the window above it.","subject": "Residential; McConnell Mansion; Restoration; Front Porch; Balcony; Idaho","location": "Moscow, ID", 
+"id": "01-05-056"
+
+},{  
+"title": "Porch Seperation at the McConnell Mansion","date": "1980","description": "An image of the north west corner of the porch showing the wear and tear and the seperation of the boards.","subject": "Residential; McConnell Mansion; Restoration; Front Porch; Gutter; Idaho","location": "Moscow, ID", 
+"id": "01-05-057"
+
+},{  
+"title": "Paint Peeling at the McConnell Mansion","date": "1980","description": "The outside corner of the McConnell Mansion showing the paint peeling before the restoration began.","subject": "Residential; McConnell Mansion; Restoration; Paint; Gutter; Idaho","location": "Moscow, ID", 
+"id": "01-05-058"
+
+},{  
+"title": "Bay Window of the McConnell Mansion","date": "1980","description": "One of the bay windows of the McConnell Mansion before the restoration began.","subject": "Residential; McConnell Mansion; Restoration; Bay Window; Balcony; Idaho","location": "Moscow, ID", 
+"id": "01-05-059"
+
+},{  
+"title": "Corner of the McConnell Mansion","date": "1980","description": "A ground up view of a corner of the McConnell Mansion before restoration began.","subject": "Residential; McConnell Mansion; Restoration; Corner; Gutter; Idaho","location": "Moscow, ID", 
+"id": "01-05-060"
+
+},{  
+"title": "Aged Porch Railing of the McConnell Mansion","date": "1980","description": "The front porch of the McConnell Mansion showing paint peeling and worn wood before restoration.","subject": "Residential; McConnell Mansion; Restoration; Porch; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-061"
+
+},{  
+"title": "McConnell Mansion Cracked Window","date": "1980","description": "A window in the McConnell Mansion before the restoration and replacement.","subject": "Residential; McConnell Mansion; Restoration; Window; Adams Street; Idaho","location": "Moscow, ID", 
+"id": "01-05-062"
+
+},{  
+"title": "North West Corner of the McConnell Mansion","date": "1980","description": "The worn north west corner of the MccConnell Mansion, showing the side railings of the front porch.","subject": "Residential; McConnell Mansion; Restoration; Railing; Porch; Idaho","location": "Moscow, ID", 
+"id": "01-05-063"
+
+},{  
+"title": "Window Ledge at the McConnell Mansion","date": "1980","description": "A window at the McConnell Mansion and its ledge showing the wear and paint peeling.","subject": "Residential; McConnell Mansion; Restoration; Window; Ledge; Idaho","location": "Moscow, ID", 
+"id": "01-05-064"
+
+},{  
+"title": "McConnell Mansion Electric Meter","date": "1980","description": "The McConnell Mansion electric meter.","subject": "Residential; McConnell Mansion; Restoration; Electric Meter; Gutter; Idaho","location": "Moscow, ID", 
+"id": "01-05-065"
+
+},{  
+"title": "Severe Paint Peeling on McConnell Mansion Railing","date": "1979","description": "The McConnell Mansion front porch railing with severe paint peeling before it is repaired.","subject": "Residential; McConnell Mansion; Restoration; Railing; Front Porch; Idaho","location": "Moscow, ID", 
+"id": "01-05-066"
+
+},{  
+"title": "Latah County Historical Society's McConnell Mansion Sign","date": "1979","description": "The original Latah County Historical Society sign for the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Latah County Historical Society; Sign; Idaho","location": "Moscow, ID", 
+"id": "01-05-067"
+
+},{  
+"title": "Back Porch Restoration","date": "1980","description": "The back porch of the McConnell Mansion during its repair, all the planks were removed for replacement.","subject": "Residential; McConnell Mansion; Restoration; Back Porch; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-068"
+
+},{  
+"title": "Underneath of the McConnell Mansion's Back Porch","date": "1980","description": "An image of the underneath of the back porch after the planks were removed for replacement.","subject": "Residential; McConnell Mansion; Restoration; Porch; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-069"
+
+},{  
+"title": "Planks Removed From Back Porch","date": "1980","description": "The back porch of the McConnell Mansion when the deck boards were removed for replacement.","subject": "Residential; McConnell Mansion; Restoration; Porch; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-070"
+
+},{  
+"title": "McConnell Mansion Back Porch Steps","date": "1980","description": "The back porch steps and porch which is covered in plastic in preparation for restoration.","subject": "Residential; McConnell Mansion; Restoration; Porch; Steps; Idaho","location": "Moscow, ID", 
+"id": "01-05-071"
+
+},{  
+"title": "South Balcony and Window","date": "1980","description": "The south balcony and second floor window of the McConnell Mansion before restoration.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Window; Idaho","location": "Moscow, ID", 
+"id": "01-05-072"
+
+},{  
+"title": "McConnell Mansion South Balcony Restoration","date": "1980","description": "The McConnell Mansion south side balcony during the restoration and repair of the home.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Window; Idaho","location": "Moscow, ID", 
+"id": "01-05-073"
+
+},{  
+"title": "McConnell Mansion South Balcony Construction","date": "1980","description": "The repair and replacement of windows and balcony boards at the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Repair; Idaho","location": "Moscow, ID", 
+"id": "01-05-074"
+
+},{  
+"title": "McConnell Mansion Siding Replacement","date": "1980","description": "The south balcony and siding repair during the restoration of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Siding; Idaho","location": "Moscow, ID", 
+"id": "01-05-075"
+
+},{  
+"title": "Siding Replacement of the McConnell Mansion","date": "1980","description": "A carpenter stands on a ladder to replace the siding by the south balcony of the McConnell Mansion..","subject": "Residential; McConnell Mansion; Restoration; Balcony; Siding; Idaho","location": "Moscow, ID", 
+"id": "01-05-076"
+
+},{  
+"title": "Carpenter Replacing Siding","date": "1980","description": "A carpenter is replacing the siding near the south side balcony on the second floor.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Siding; Idaho","location": "Moscow, ID", 
+"id": "01-05-077"
+
+},{  
+"title": "McConnell Mansion South Side Balcony","date": "1980","description": "A worker is standing on the south side balcony of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-078"
+
+},{  
+"title": "Restoration of South Side Balcony","date": "1980","description": "The McConnell Mansion's south balcony with a carpenter at work during the construction/restoration.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-079"
+
+},{  
+"title": "Second Floor Balcony Repair","date": "1980","description": "A view of the south balcony during construction/restoration at the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Balcony; Railing; Idaho","location": "Moscow, ID", 
+"id": "01-05-080"
+
+},{  
+"title": "Painting of Front Porch","date": "1980","description": "A worker is painting the front porch of the McConnell Mansion","subject": "Residential; McConnell Mansion; Restoration; Front Porch; Painting; Idaho","location": "Moscow, ID", 
+"id": "01-05-081"
+
+},{  
+"title": "McConnell Mansion Front Porch Painting","date": "1980","description": "A worker is painting the awnings above the front porch of the McConnell Mansion.","subject": "Residential; McConnell Mansion; Restoration; Front Porch; Painting; Idaho","location": "Moscow, ID", 
+"id": "01-05-082"
+
+},{  
+"title": "Original McConnell Mansion Sign","date": "1980","description": "The original sign for the McConnell Mansion, placed there by the Latah County Historical Society.","subject": "Residential; McConnell Mansion; Restoration; Front Porch; Painting; Idaho","location": "Moscow, ID", 
+"id": "01-05-083"
+
+},{  
+"title": "McConnell Mansion Corner Foundation","date": "1980","description": "Corner foundation cracks at the McConnell Mansion before repairs.","subject": "Residential; McConnell Mansion; Restoration; Foundation; Cracks; Idaho","location": "Moscow, ID", 
+"id": "01-05-084"
+
+},{  
+"title": "Front Porch Railing of the McConnell Mansion","date": "1980","description": "The paint peeling on the front porch railing of the McConnell Mansion before restoration.","subject": "Residential; McConnell Mansion; Restoration; Railing; Front Porch; Idaho","location": "Moscow, ID", 
+"id": "01-05-085"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion restoration - front porch corner post.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-086"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - post on the front porch","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-087"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - Picture of the front door","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-088"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell mansion repairs and restoration - Picture of the south balcony","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-089"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell mansion repairs and restoration - south bay window","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-090"
+
+},{  
+"title": "McConnell Mansion chimney","date": "1980","description": "McConnell Mansion repairs and restoration - chimney on the north side.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-091"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - a corner and a downspout.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-092"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-093"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell mansion repairs and restoration - a window.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-094"
+
+},{  
+"title": "McConnell Mansion sign","date": "1980","description": "McConnell Mansion repairs and restoration - original sign in the front yard.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-095"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - Picture of the northwest corner with a downspout","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-096"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - northeast corner","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-097"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - a drain pipe","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-098"
+
+},{  
+"title": "McConnell Mansion power meter","date": "1980","description": "McConnell Mansion repairs and restoration - the power meter.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-099"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell repairs and restoration - railing on the front porch.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-100"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell repair and restoration - railing at the front door","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-101"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - post at the bottom of the stairs to the front door.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-102"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell repairs and restoration - bottom of a bay window","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-103"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - a section of porch railing.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-104"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell repairs and restoration - corner with a downspout","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-105"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - the northeast corner","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-106"
+
+},{  
+"title": "McConnell Mansion restoration","date": "1980","description": "McConnell Mansion repairs and restoration - Picture of the mansion when the job is complete.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-107"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "McConnell Mansion after restoration - front door and bay window","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-108"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "McConnell Mansion after restoration - front bay window","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-109"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "McConnell Mansion after restoration - detail","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-110"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "McConnell Mansion after restoration - southwest corner","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-111"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - picture taken from the west side.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-112"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - top of the original front door.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-113"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after completed repairs and painting, one of the small peaks over a window at the top of the house, possibly on the south side.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-114"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after completed repairs and painting, a view of the railing on the south side second floor balcony.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-115"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after completed repairs and painting, a view of a corner gables under the eves, a gutter to the left.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-116"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - a view of the west side bay window and original front entery.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-117"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - detail","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-118"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion - completed repairs and painting, a view at the westside of the house.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-119"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - view of the back porch entry on the eastside of the house.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-120"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - back porch and entry on the eastside of the house.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-121"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - view of the orginal front entrance on the westside of the house","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-122"
+
+},{  
+"title": "McConnell Mansion after restoration","date": "1980","description": "McConnell Mansion after restoration - view from the street looking at the west and south sides of the house.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-123"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion - interior view of the back parlor.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-124"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion - interior view of the dividing doors between front and back parlors","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-125"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion - interior view of the railing on the staircase.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-126"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion - interior view of the doors between the palors.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-127"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the window and shutters in the front palor.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-128"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the doors between the back parlor and the hallway.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-129"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of a window in the parlor.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-130"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the door between the parlors","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-131"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the main staircase railing bottom post.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-132"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the shutters on a window","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-134"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the design on the door in the hall","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-136"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion interior - view of the railing on the stair way.","subject": "Residential; McConnell Mansion; Restoration; Idaho","location": "Moscow, ID", 
+"id": "01-05-138"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - picture of 5 unknown soldiers in the back parlor","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-140"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - maid's room off of the dinning room on the main level","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-141"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - front parlor","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-142"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - piano in the back parlor","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-143"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - sofa with pillow and an afghan cover.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-144"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - back parlor with the piano and a desk","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-145"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - dining room","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-146"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - dining room","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-147"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - back parlor","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-148"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - dining room Thanksgiving dinner for students in Dr. Church's dining room, 1945, according to back of one copy of photo","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-149"
+
+},{  
+"title": "Barton House","date": "1920","description": "Barton House","subject": "Residential; Barton House; Idaho","location": "Moscow, ID", 
+"id": "01-05-151"
+
+},{  
+"title": "McConnell Mansion interior","date": "1945","description": "McConnell Mansion interior - dining room","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-152"
+
+},{  
+"title": "McConnell Mansion","date": "1945","description": "McConnell Mansion front door","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-153"
+
+},{  
+"title": "McConnell Mansion","date": "1945","description": "McConnell Mansion front door","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-154"
+
+},{  
+"title": "McConnell Mansion","date": "1945","description": "McConnell Mansion - exterior shot from the SW street corner","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-155"
+
+},{  
+"title": "McConnell Mansion","date": "1945","description": "McConnell Mansion from the SW street corner","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-156"
+
+},{  
+"title": "McConnell Mansion","date": "1945","description": "McConnell Mansion west side of the house","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-157"
+
+},{  
+"title": "McConnell Mansion","date": "1945","description": "McConnell Mansion - Exterior shot of the west side of the house","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-158"
+
+},{  
+"title": "Howard Leslie at McConnell Mansion","date": "1945","description": "Picture of Howard Leslie former Christian Church minister at the McConnell Mansion","subject": "Residential; Leslie, Howard; Idaho","location": "Moscow, ID", 
+"id": "01-05-159"
+
+},{  
+"title": "Women in front of McConnell Mansion","date": "1945","description": "Two ladies posed in front on the McConnell Mansion, one of them could be Nelda Leslie","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-160"
+
+},{  
+"title": "McConnell Mansion","date": "1943","description": "Exterior shot of the west side of the McConnell Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-161"
+
+},{  
+"title": "four men on the McConnell Mansion lawn","date": "1945","description": "Four men standing on the lawn on the SW corner of the Mansion. The back of the picture someone wrote \"Dr. Church, a descendent of Napoleon\"","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-162"
+
+},{  
+"title": "Men on McConnell Mansion lawn","date": "1945","description": "Dr. Church, Howard Leslie and Bob (?) sitting on the lawn of the McConnell Mansion","subject": "Residential; Church, Frederic Cross Leslie, Howard; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-163"
+
+},{  
+"title": "McConnell Mansion interior; Dr. Church","date": "1945","description": "Dr. Church sitting on a short stool in one of the bedrooms in the Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-165"
+
+},{  
+"title": "Coats home","description": "H.L. Coats home on the SW corner of A Street and Van Buren Sts., Moscow","subject": "Residential; Coats Home; Idaho","location": "Moscow, ID", 
+"id": "01-05-166"
+
+},{  
+"title": "McConnell Mansion interior","date": "1980","description": "McConnell Mansion -interior picture taken in the front parlor looking to the back parlor.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-167"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "Picture of the mansion from the SW corner.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-168"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "Picture of the west side of the mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-169"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "Picture of the bay window on the SE corner of the mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-170"
+
+},{  
+"title": "McConnell Mansion","date": "1980","description": "Picture of one of the window inside the mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-171"
+
+},{  
+"title": "McConnell Mansion","description": "McConnell Mansion from Second Street","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-172"
+
+},{  
+"title": "McConnell Mansion","description": "Old winter shot of the Mansion with a picket fence and looks like two children on the sidewalk.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-173"
+
+},{  
+"title": "McConnell women at the McConnell Mansion","description": "McConnell Mansion with picket fence and 3 women standing inside the fence; Mrs May Hannah McConnell with daughters Mayme (McConnell) Borah and Nellie (McConnell) Lenderman. from Hunter album","subject": "Residential; Borah, Mary McConnell McConnell, May Hannah Lenderman, Nellie McConnell; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-174"
+
+},{  
+"title": "McConnell Mansion Garden Party","date": "1900","description": "Garden Party often hosted by the Adairs (multiple copies)","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-175"
+
+},{  
+"title": "Adair's garden party at McConnell Mansion","date": "1900","description": "Adair's garden party at the McConnell mansion in the early 1900's","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-176"
+
+},{  
+"title": "McConnell house in OR","description": "McConnell House, built by L. Loughlin in Yarnhill, OR Donor: Ed Burke","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-178"
+
+},{  
+"title": "McConnell house in OR","description": "McConnell's house in Yam Hill, OR, built in 1871","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-179"
+
+},{  
+"title": "Dr. Watkin's house","description": "Dr. Watkin's house at 402 S. Van Buren, Moscow, ID (2 copies)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-180"
+
+},{  
+"title": "David home","description": "F. A. David home, at 1st and Polk Sts., Moscow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-181"
+
+},{  
+"title": "Adair house with pet bear","description": "Adair House, pet bear. Donor: Ione Adair","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-182"
+
+},{  
+"title": "Adair house with pet dog","description": "Adair House, pet dog","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-183"
+
+},{  
+"title": "Robert H. Barton home","date": "1954","description": "Robert H. Barton's \"Mountain View Home\" at 310 N. Van Buren (later the Peterson Apartment house)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-184"
+
+},{  
+"title": "Quesnelle home","description": "Quesnell home at 326 East A. Street in Moscow across the street from Russell School Owner is Cornelius Quesnelle, co-owner of Idaho National Harveste3r Co.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-185"
+
+},{  
+"title": "Russell home","date": "1890","description": "Russell home","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-186"
+
+},{  
+"title": "Frank Robinson's home","date": "1978","description": "Frank Robinson's home at 122 S. Howard St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-187"
+
+},{  
+"title": "Frank Robinson home","date": "1978","description": "Frank Robinson's home at 122 S. Howard St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-188"
+
+},{  
+"title": "Quesnell family in front of their home","description": "Quesnell family in front of their home; included are Grandma Harrison, Grandma Quesnell, Enas (on pony), Elvera, Bertrand, Aunt Jesse, Uncle Neal, Marie Groffe","subject": "Residential; Quesnell, Jessie Harrison Quesnell, Elvera Quesnell, Enas Quesnell, Bertrand Groffe, Marie; Idaho","location": "Moscow, ID", 
+"id": "01-05-189"
+
+},{  
+"title": "McConnell Mansion repair","date": "1980","description": "McConnell Mansion repair","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-190"
+
+},{  
+"title": "Almon Asbury Lieuallen house","date": "1980","description": "Almon Asbury Lieuallen house","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-191"
+
+},{  
+"title": "Almon Asbury Lieuallen house","date": "1980","description": "Almon Asbury Lieuallen house","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-192"
+
+},{  
+"title": "Almon Asbury Lieuallen house","date": "1980","description": "Almon Asbury Lieuallen house at 101 South Almon Donor: Edna Gravom?","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-193"
+
+},{  
+"title": "Almon Asbury Lieuallen house","date": "1980","description": "Almon Asbury Lieuallen house","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-194"
+
+},{  
+"title": "McConnell Mansion","date": "1983","description": "McConnell Mansion at 2nd and Adams Sts, Moscow, ID","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-195"
+
+},{  
+"title": "H. L. Coates home","description": "H.L. Coates home (farm)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-196"
+
+},{  
+"title": "Dr. Watkin's home","date": "1908","description": "Dr. Watkin's home at 402 S. Van Buren where he lived from Sept. 1908 until June 1909 Donor: Carl Van Engen Sr.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-197"
+
+},{  
+"title": "McConnell Mansion","date": "1960","description": "McConnell Mansion Donor: Clarice Sampson (1985)","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-198"
+
+},{  
+"title": "Charles & Julia Moore home","description": "Charles & Julia Moore home at the southeast corner of D and Howard Sts. (later the Ursuline Academy) Donor: Cliff Ott","subject": "Residential; Charles & Julia Moore home; Idaho","location": "Moscow, ID", 
+"id": "01-05-199"
+
+},{  
+"title": "Alfred Spotswood home","description": "Alfred Spotswood home at 505 East A St.. (after 1945 was Loyal Talbott's home )","subject": "Residential; Alfred Spotswood home; Idaho","location": "Moscow, ID", 
+"id": "01-05-201"
+
+},{  
+"title": "Edmondson home","date": "1914","description": "Edmondson home at 425 East 3rd St., Moscow, ID Appears in Julie Monroe's Images of Moscow with following caption: \"Emma Edmundson and her family ran a rooming house in the structure pictured here around 1912. Located at 425 East Third Street, this ouse is in use today as an apartment building.\"","subject": "Residential; Edmondson home; Idaho","location": "Moscow, ID", 
+"id": "01-05-202"
+
+},{  
+"title": "Pleasant Home Boarding House","description": "Pleasant Home Boarding House at 213 S. Jackson St, Moscow Copy from Clifford Ott","subject": "Residential; Pleasant Home Boarding House; Idaho","location": "Moscow, ID", 
+"id": "01-05-203"
+
+},{  
+"title": "Jesse Randall home","description": "Jesse Randall home at 820 East B St. copy from Cliff Ott","subject": "Residential; Jesse Randall home; Idaho","location": "Moscow, ID", 
+"id": "01-05-204"
+
+},{  
+"title": "Frank L. White farm house","description": "Frank L. White farm house at 318 N. Hayes St., Moscow, ID copy by Cliff Ott","subject": "Residential; Frank L. White farm house; Idaho","location": "Moscow, ID", 
+"id": "01-05-205"
+
+},{  
+"title": "C. L. Butterfield home","description": "C. L. Butterfield home at 403 N. Polk St., Moscow, ID","subject": "Residential; C. L. Butterfield home; Idaho","location": "Moscow, ID", 
+"id": "01-05-206"
+
+},{  
+"title": "Baker/Shields home","date": "1900","description": "William Baker (1900) / M.J. Shields home at 411 East B. St., Moscow, ID","subject": "Residential; Baker, Shields home; Idaho","location": "Moscow, ID", 
+"id": "01-05-207"
+
+},{  
+"title": "Jerome Day Home","description": "Jerome Day home from the Mike Fritz postcard collection","subject": "Residential; Jerome Day Home; Idaho","location": "Moscow, ID", 
+"id": "01-05-208"
+
+},{  
+"title": "Jerome Day Home","description": "Jerome Day home","subject": "Residential; Jerome Day Home; Idaho","location": "Moscow, ID", 
+"id": "01-05-209"
+
+},{  
+"title": "Gustav Johnson home","description": "Gustav Johnson home on 6th St., Moscow, ID Donated by Victoria Olsen","subject": "Residential; Gustav Johnson home; Idaho","location": "Moscow, ID", 
+"id": "01-05-210"
+
+},{  
+"title": "Moody home","description": "Moody home at 722 Lynn Ave, Moscow (exterior) View 1 taken by Mabel Moody one morning as she left for Creighton's Store where she worked. View 2 shows Mabel Moody, Mr. Moody and son, Maurice, on the porch.","subject": "Residential; Moody, Maurice Drummond Moody, Mabel Joanna; Moody Home; Idaho","location": "Moscow, ID", 
+"id": "01-05-211"
+
+},{  
+"title": "Moody home dining room","date": "1900","description": "dining room of the Moody home at 722 Lynn Ave., Moscow (interior)","subject": "Residential; Moody Home; Idaho","location": "Moscow, ID", 
+"id": "01-05-212"
+
+},{  
+"title": "McConnell Mansion as Adair home","date": "1900","description": "Adair home at 110 S. Adams St. (McConnell Mansion)","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-213"
+
+},{  
+"title": "Mrs. Kelly's boys singing group in the McConnell Mansion","date": "1932","description": "Mrs. Kelly's boys singing group inside the McConnell Mansion: (l to r) Bobby Christenson, Bobby Smith, Frank Halverson, Harry Falkins, Billy Christenson, Gerry Hagedorn, unknown (see also 01-11-007) donated by Gerry Hagedorn","subject": "Residential; Hagedorn, Gerald Frederick (Gerry) Halverson, Frank Christenson, Robert Christenson, William Falkins, Harry Smith, Robert; Idaho","location": "Moscow, ID", 
+"id": "01-05-214"
+
+},{  
+"title": "Curtis-Romig home","date": "1912","description": "Curtis-Romig home, North Maim, Donor: Eula Greene Miller","subject": "Residential; Curtis-Romig home; Idaho","location": "Moscow, ID", 
+"id": "01-05-215"
+
+},{  
+"title": "McCallie house","description": "McCallie house","subject": "Residential; McCallie house; Idaho","location": "Moscow, ID", 
+"id": "01-05-216"
+
+},{  
+"title": "Dr. Adair farm","description": "Dr. Adair farm (Not Losina and William Adair) In front: Molly Walker, John Walker, their twin boys Donor: Ruth Bruce","subject": "Residential; Dr. Adair farm; Idaho","location": "Moscow, ID", 
+"id": "01-05-217"
+
+},{  
+"title": "McConnell Mansion","date": "1988","description": "McConnell Mansion Donor: Keith Peterson","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-218"
+
+},{  
+"title": "Centennial Annex (LCHS)","date": "1988","description": "Centennial Annex (LCHS) on 2nd St., Moscow Donor: Keith Petersen","subject": "Residential; Centennial Annex (LCHS); Idaho","location": "Moscow, ID", 
+"id": "01-05-219"
+
+},{  
+"title": "Exterior of Moscow home","date": "1900","description": "Exterior of Moscow home with family on front step, Donor: D.D. DuSault","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-220"
+
+},{  
+"title": "Paulson Residence","date": "1893","description": "Paulson Residence, 804 South Washington (later, Anderton Apartments, then razed in 1973 to build Marbrooke Medical building) Mabel (daughter) on porch, Jennie (mother) in yard, John (father) on steps, Elmer (son) in buggy in the street Donor: William T. Marineau","subject": "Residential; Paulson, Elmer M. Paulson, Jennie Rawson Paulson, John Paulson, Mabel; Paulson Residence; Idaho","location": "Moscow, ID", 
+"id": "01-05-221"
+
+},{  
+"title": "Dimond home","description": "Charles and Leora Dimond home, 117 South Monroe St, Moscow Donor: Miri K. Hargus","subject": "Residential; Dimond home; Idaho","location": "Moscow, ID", 
+"id": "01-05-222"
+
+},{  
+"title": "506 Ridge Rd","date": "1986","description": "House AT 506 Ridge Road Donor: Dr. John Ayers","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-223"
+
+},{  
+"title": "Wylie A. Lauder home","date": "1894","description": "Wylie Lauder home, Van Buren and Second St., Moscow. Hops vine are growing up the string on the porch. Donor: Jeanette Talbott","subject": "Residential; Wylie A. Lauder home; Idaho","location": "Moscow, ID", 
+"id": "01-05-224"
+
+},{  
+"title": "C. H. Whitmore plowing his garden","description": "C. H. Whitmore plowing his garden on N. Morton St., one block W of Main","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-225"
+
+},{  
+"title": "O. C. Carssow house","date": "1933-02-02","description": "O. C. Carssow house at Spotswood and Harrison Sts., Moscow","subject": "Residential; O. C. Carssow house; Idaho","location": "Moscow, ID", 
+"id": "01-05-226"
+
+},{  
+"title": "O C Carssow house","date": "1933","description": "O. C. Carssow house at Spotswood and Harrison Sts., Moscow","subject": "Residential; O. C. Carssow house; Idaho","location": "Moscow, ID", 
+"id": "01-05-227"
+
+},{  
+"title": "O C Carssow house","description": "O. C. Carssow house at Spotswood and Harrison Sts., Moscow","subject": "Residential; O. C. Carssow house; Idaho","location": "Moscow, ID", 
+"id": "01-05-228"
+
+},{  
+"title": "O C Carssow house","date": "1921","description": "O. C. Carssow house, January 1921, at Spotswood and Harrison Sts., Moscow","subject": "Residential; O. C. Carssow house; Idaho","location": "Moscow, ID", 
+"id": "01-05-229"
+
+},{  
+"title": "O C Carssow house","description": "O. C. Carssow house, at Spotswood and Harrison Sts., Moscow","subject": "Residential; O. C. Carssow house; Idaho","location": "Moscow, ID", 
+"id": "01-05-230"
+
+},{  
+"title": "Day Mansion","description": "Jerome J. Day mansion at A and Van Buren Sts. Donor: Loris Jones","subject": "Residential; Day Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-231"
+
+},{  
+"title": "Lieuallen house","date": "1954","description": "Asbury Lieuallen house at west end of First St, Moscow Donor: Loris Jones","subject": "Residential; Lieuallen house; Idaho","location": "Moscow, ID", 
+"id": "01-05-232"
+
+},{  
+"title": "Lauder home","description": "Lauder home, 1310 Deakin St, Moscow","subject": "Residential; Lauder home; Idaho","location": "Moscow, ID", 
+"id": "01-05-233"
+
+},{  
+"title": "Asbury Lieuallen house","description": "Asbury Lieuallen house Donor: Lillian Otness","subject": "Residential; Lieuallen house; Idaho","location": "Moscow, ID", 
+"id": "01-05-234"
+
+},{  
+"title": "Asbury Lieuallen house","description": "Asbury Lieuallen house Donor: Lillian Otness","subject": "Residential; Lieuallen house; Idaho","location": "Moscow, ID", 
+"id": "01-05-235"
+
+},{  
+"title": "Asbury Lieuallen house","description": "Asbury Lieuallen house Donor: Lillian Otness","subject": "Residential; Lieuallen house; Idaho","location": "Moscow, ID", 
+"id": "01-05-236"
+
+},{  
+"title": "McConnell Mansion interior","date": "1989","description": "McConnell Mansion interior","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-237"
+
+},{  
+"title": "McConnell Mansion interior","date": "1989","description": "McConnell Mansion interior","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-238"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1989","description": "McConnell Mansion Exterior, snow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-239"
+
+},{  
+"title": "McConnell Mansion","date": "1989","description": "McConnell Mansion Exterior, snow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-240"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1989","description": "McConnell Mansion Exterior, snow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-241"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1989","description": "McConnell Mansion Exterior, snow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-242"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1989","description": "McConnell Mansion Exterior, snow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-243"
+
+},{  
+"title": "Eugene Buchanan home","description": "Eugene Buchanan home (family in front) Donor: Howard Buchanan","subject": "Residential; Buchanan, Eugene; Eugene Buchanan home; Idaho","location": "Moscow, ID", 
+"id": "01-05-244"
+
+},{  
+"title": "617 W. Sixth Street","date": "1970","description": "617 W. Sixth on the site of a former brick yard. Belonged to Curtis L. and Mildred Waters Talbott Donor: Arlene Jonas Three groups of photos: 01-05-245A Exterior views of house - front, back yard, back looking SE, back looking SW 01-05-245 Interior views of house - Kitchen eating area, view into kitchen hall, home office, two views of a bedroom 01050245C Interior views - three views of the living room","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-245"
+
+},{  
+"title": "Harry Driscoll house","description": "Harry Driscoll house, East Second St., Moscow","subject": "Residential; Harry Driscoll house; Idaho","location": "Moscow, ID", 
+"id": "01-05-246"
+
+},{  
+"title": "Bull Ward home","date": "1948","description": "Bull Ward's home (Ward;s Hardware); owned by I. L. Standley in 1990 Donor: Ken Hedglin","subject": "Residential; Bull Ward home; Idaho","location": "Moscow, ID", 
+"id": "01-05-247"
+
+},{  
+"title": "Girls on steps of Shield's home","date": "1899","description": "Mary Shield's home, girls on front steps Donor: Loyal Talbott","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-248"
+
+},{  
+"title": "216 E Second St (Lew home)","date": "1950","description": "Mi and Marie Lew home at 216 East Second St, Moscow Donor: Marie Lew","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-249"
+
+},{  
+"title": "412 N Howard St (Charles Moore home)","date": "1900","description": "Charles Moore home, 412 North Howard, Moscow Donor: Ralph Kimball","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-250"
+
+},{  
+"title": "Lieuallen home","date": "1992","description": "Lieuallen house, at West First and Almon Sts, Moscow, owned by donor, Donor: M/M Kotter","subject": "Residential; Lieuallen house; Idaho","location": "Moscow, ID", 
+"id": "01-05-251"
+
+},{  
+"title": "Lieuallen house","date": "1992","description": "Lieuallen house at west end of First St. on Almon Ave. Donor: Dick Beck","subject": "Residential; Lieuallen house; Idaho","location": "Moscow, ID", 
+"id": "01-05-252"
+
+},{  
+"title": "W. A. Sheets house","date": "1940","description": "W. A. Sheets house, 923 S. Jefferson Donor: Al Hofmann","subject": "Residential; W. A. Sheets house Idaho","location": "Moscow, ID", 
+"id": "01-05-253"
+
+},{  
+"title": "W A Sheets home","date": "1940","description": "W. A. Sheets house, 923 S. Jefferson Donor: Al Hofmann","subject": "Residential; W. A. Sheets house Idaho","location": "Moscow, ID", 
+"id": "01-05-254"
+
+},{  
+"title": "W. A. Sheets home","date": "1941","description": "W. A. Sheets house, 800 block of South Jefferson, William Sheets on back porch","subject": "Residential; W. A. Sheets house Idaho","location": "Moscow, ID", 
+"id": "01-05-255"
+
+},{  
+"title": "1898 home interior","date": "1898","description": "1898 home interior, most likely in Moscow","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-256"
+
+},{  
+"title": "1898 home interior","date": "1898","description": "1898 home interior, most likely in Moscow (dining room)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-257"
+
+},{  
+"title": "1898 home interior","date": "1898","description": "1898 home interior, most likely in Moscow (view from parlor into bedroom)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-258"
+
+},{  
+"title": "1898 home interior","date": "1898","description": "1898 home interior, most likely in Moscow (corner of parlor taken by electric light)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-259"
+
+},{  
+"title": "1898 interior","date": "1898","description": "1898 home interior, most likely in Moscow (showing child's tea party for dolls)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-260"
+
+},{  
+"title": "home interior","description": "Home interior, Donor: Lillian Otness","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-261"
+
+},{  
+"title": "West on C Street","date": "1950","description": "C Street, Packard car, Donor: B. Cross","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-262"
+
+},{  
+"title": "Home, unknown","date": "1950","description": "Home, unknown Donor: B Cross","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-263"
+
+},{  
+"title": "Home, unknown","date": "1950","description": "Home, unknown Donor: B Cross","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-264"
+
+},{  
+"title": "Home, unknown","date": "1950","description": "Home, unknown Donor: B Cross","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-265"
+
+},{  
+"title": "Freiberg's on C St","date": "1950","description": "Freiberg's on C St., Donor: B Cross","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-266"
+
+},{  
+"title": "Home, unknown","date": "1950","description": "Home, unknown Donor: B Cross","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-267"
+
+},{  
+"title": "House on Spotswood","date": "1950","description": "House on Spotswood Sally Comb's mother's house.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-268"
+
+},{  
+"title": "House on B Street","date": "1950","description": "House on B Street","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-269"
+
+},{  
+"title": "Lauder home","description": "Lauder home on Van Buren and Second Streets birthplace of Alma Lauder Keeling.","subject": "Residential; Lauder home; Idaho","location": "Moscow, ID", 
+"id": "01-05-270"
+
+},{  
+"title": "Taylor Cabin","description": "Part of the Taylor homstead cabin. There are two people and two horse standing in front of the cabin.","subject": "Residential; Taylor cabin; Idaho","location": "Moscow, ID", 
+"id": "01-05-271"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of two volunteers, Marty Snodgrass and Judy Nielsen, working at cataloging at the McConnell Mansion.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-272"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of a display in the mansion of a college student's room","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-273"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of a chair in the palor of the mansion.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-274"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of the back parlor in the mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-275"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Hired girl's room in the mansion.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-276"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of the dining room at the mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-277"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Dining room at the mansion.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-278"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of the back palor of the mansion.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-279"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "A corner in the palor of the Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-280"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Front Parlor of the mansion.","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-281"
+
+},{  
+"title": "McConnell Mansion","date": "1994","description": "Picture of one of the windows in the parlor of the mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-282"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the front porch of the Day Mansion, home of Peter and Willie Siems.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-283"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Outside photo of the second floor of the Day Mansion","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-284"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the front door of the Day Mansion","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-285"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the front porch of the Day Mansion","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-286"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the front porch of the Day Mansion.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-287"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the front door.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-288"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the front Door.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-289"
+
+},{  
+"title": "Day Mansion","date": "1994","description": "Picture of the garden.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-290"
+
+},{  
+"title": "Day Mansion","date": "1994-07","description": "Picture of the garden.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-291"
+
+},{  
+"title": "Hamilton vegetable garden","date": "1994-07","description": "Joel and Mary Jo Hamilton's garden, 1102 Orchard Ave.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-292"
+
+},{  
+"title": "Hamilton garden, patio","date": "1994-07","description": "Joel and Mary Jo Hamilton's garden, 1102 Orchard Ave.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-293"
+
+},{  
+"title": "Hamilton vegetable garden","date": "1994-07","description": "Joel and Mary Jo Hamilton's garden, 1102 Orchard Ave.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-294"
+
+},{  
+"title": "Joel Hamilton's garden","date": "1994","description": "Joel and Mary Jo Hamilton's garden, 1102 Orchard Ave.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-295"
+
+},{  
+"title": "Joel Hamilton's garden","date": "1994","description": "Joel and Mary Jo Hamilton's garden, 1102 Orchard Ave.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-296"
+
+},{  
+"title": "Joel Hamilton's garden","date": "1994","description": "Joel and Mary Jo Hamilton's garden, 1102 Orchard Ave.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-297"
+
+},{  
+"title": "Luther garden","date": "1994-07","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-298"
+
+},{  
+"title": "Luther garden","date": "1994-07","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-299"
+
+},{  
+"title": "Luther garden","date": "1994","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-300"
+
+},{  
+"title": "Luther garden","date": "1994-07","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-301"
+
+},{  
+"title": "Luther garden","date": "1994-07","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-302"
+
+},{  
+"title": "Luther garden","date": "1994","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-303"
+
+},{  
+"title": "Luther garden","date": "1994","description": "Vern and Mary Luther's garden, 1214 Lynn St.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-304"
+
+},{  
+"title": "Charles Carter home","description": "Charles Carter home, 615 East C Street","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-305"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1970","description": "McConnell Mansion in winter Donor: Bert & Helen Cross","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-306"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1970","description": "McConnell Mansion in winter","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-307"
+
+},{  
+"title": "McConnell Mansion","date": "1969-11","description": "McConnell Mansion showing street sign at corner Donor: Moscow Chamber of Commerce","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-308"
+
+},{  
+"title": "McConnell Mansion","date": "1969","description": "McConnell Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-309"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-310"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion from Second St., Moscow","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-311"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion from Adams Street","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-312"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion, looking at front entry","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-313"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1990","description": "McConnell Mansion in winter , c1","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-314"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion in winter , c1","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-315"
+
+},{  
+"title": "McConnell Mansion in winter","date": "1985","description": "McConnell Mansion in winter, 2 copies","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-316"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-317"
+
+},{  
+"title": "McConnell Mansion","date": "1990","description": "McConnell Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-318"
+
+},{  
+"title": "McConnell Mansion","date": "1969","description": "McConnell Mansion","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-319"
+
+},{  
+"title": "Johnston Garden","date": "1993","description": "Johnston Garden, 1113 Highland Dr., Moscow, ID from 1993 house tour brochure","subject": "Residential; Johnston Garden; Idaho","location": "Moscow, ID", 
+"id": "01-05-320"
+
+},{  
+"title": "Johnston Garden","date": "1993","description": "Johnston Garden, 1113 Highland Dr., Moscow, ID from 1993 house tour brochure","subject": "Residential; Johnston Garden; Idaho","location": "Moscow, ID", 
+"id": "01-05-321"
+
+},{  
+"title": "Frank B. Robinson home at 322 S. Howard St.","description": "Frank B. Robinson's home in Moscow at 322 S. Howard St. (back of magazine page shows portrait of Mrs Frank (Pearl) Robinson and tells of her community work)","subject": "Residential; Robinson, Pearl B.; Robinson home; Idaho","location": "Moscow, ID", 
+"id": "01-05-322"
+
+},{  
+"title": "Dernham Home","description": "Dernham Home, 418 East B ST., Moscow (built 1885) Donor: Nancy Compau","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-323"
+
+},{  
+"title": "McConnell Mansion","date": "1967","description": "McConnell Mansion, Moscow, ID Donor: Latah County Pioneer Association","subject": "Residential; McConnell Mansion; Idaho","location": "Moscow, ID", 
+"id": "01-05-324"
+
+},{  
+"title": "Homes on the 1992 house tour","date": "1992","description": "Proof sheet of 37 images of homes and gardens on the 1992 house tour. 01-05-325.01 to .05 643 East B St., Whitson/Sanchez home 01-05-325.06 to .09 325 NORTH POLK, MILLER, EVAN/LESLIE WILSON 01-05-325.10 to .12 418 EAST B STREET, DENHAM/GODWIN 01-05-325.13 410 EAST B STREET, KAUFMAN 01-05-325.21 & .22 124 NORTH POLK, RYRIE/SANDERS 01-05-325.23 & .24 URSULINE CONVENT WALLS 01-05-325.25,.26 &.31 328 North Polk St., Howard David/Butterfield home 01-05-325.27 & .28 604 East A St., Hall home 01-05-325.29 & .30 605 East A St., Elder home 01-05-325.32 & .33 403 N. Polk St., Butterfield/Fryatt home 01-05-325.34 221 N. Adams, Charles Shields home 01-05-325.35 & .36 430 East A St., Carriage House, Day/Siems home 01-05-325.37 430 E. A St., Day Mansion 5\"x7\" prints of the following: 01-05-325.14 and .15 (.16 & .17) 404 N. Hayes garden belonging to Bowler/Wright 01-05-325.18 (.19 & .20) 826 Orchard Ave., home of Charles Decker","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-325"
+
+},{  
+"title": "homes on the 1992 house tour","date": "1992","description": "Proof sheet of 16 images of homes and gardens on the 1992 house tour 01-05-325.08 &.09 411 East B St., Baker home 01-05-326.11 to .13 643 E B St, Moscow, ID, garden belonging to Whitson /Sanchez home 05-05-326.15 &.16 Fort Russell marker","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-326"
+
+},{  
+"title": "124 N. Polk St","date": "1996","description": "124 North Polk, Ryrie Brink /David Sanchez Home, marker placed 04/28/96 (see 01-05-328) Donor: D Beck","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-327"
+
+},{  
+"title": "124 N. Polk St.","date": "1996","description": "124 North Polk, Ryrie Brink /David Sanchez Home showing plaque (04/28/1996) on front porch Donor: Dick Beck","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-328"
+
+},{  
+"title": "Butterfield House","date": "1996","description": "Butterfield house, 403 N Polk St., Moscow, ID Constructed 1902-03 On 1996 home tour","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-329"
+
+},{  
+"title": "Butterfield House","date": "1996","description": "Butterfield house, 403 N Polk St., Moscow, ID Constructed 1902-03 On 1996 home tour","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-330"
+
+},{  
+"title": "Butterfield House","date": "1996","description": "Butterfield house, 403 N Polk St., Moscow, ID Constructed 1902-03 On 1996 home tour","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-331"
+
+},{  
+"title": "Teresa Brewer's garden","date": "1996","description": "Teresa Brewer in her garden at 315 Lewis St, Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-332"
+
+},{  
+"title": "Teresa Brewer's garden","date": "1996","description": "Teresa Beaver in her garden at 315 Lewis St, Moscow ID on 1996 home tour","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-333"
+
+},{  
+"title": "Teresa Brewer's garden","date": "1996","description": "Teresa Brewer's garden, 315 Lewis, Moscow","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-334"
+
+},{  
+"title": "Teresa Brewer's garden","date": "1996","description": "Teresa Brewer's garden, 315 Lewis, Moscow","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-335"
+
+},{  
+"title": "Teresa Brewer's garden","date": "1996","description": "Teresa Brewer's garden, 315 Lewis, Moscow","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-336"
+
+},{  
+"title": "Teresa Brewer's garden","date": "1996","description": "Teresa Brewer's garden, 315 Lewis, Moscow","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-337"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-338"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-339"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-340"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-341"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-342"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-343"
+
+},{  
+"title": "Walter Garden","date": "1996","description": "Walter Garden, 1003 East Seventh St., Moscow, ID on 1996 home tour","subject": "Residential; Richard Walter; Idaho","location": "Moscow, ID", 
+"id": "01-05-344"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID on 1996 home & garden tour","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-345"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-346"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-347"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-348"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-349"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-350"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-351"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-352"
+
+},{  
+"title": "Whitson House","date": "1996","description": "Whitson House, 634 East B St. (Sanchez), Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-353"
+
+},{  
+"title": "Lauder home at 2nd & Van Buren","date": "1905","description": "Lauder Home, Second St. and Van Buren, Moscow, ID Donor: Alma Lauder Keeling writes that this house is where she was born (see photo back)","subject": "Residential; Lauder home; Idaho","location": "Moscow, ID", 
+"id": "01-05-354"
+
+},{  
+"title": "621 East C. St.","date": "1990","description": "621 East C St., Kenworthy/Reid, Moscow, ID on 1993 house tour","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-355"
+
+},{  
+"title": "Frank Bennett Home","date": "1997","description": "Frank Bennett Home garden, 1020 Palouse River Dr., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-356"
+
+},{  
+"title": "Frank Bennett Home","date": "1997","description": "Frank Bennett Home garden, 1020 Palouse River Dr., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-357"
+
+},{  
+"title": "Lyle Home","date": "1980","description": "Jim and Doris Lyle home, Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-358"
+
+},{  
+"title": "Photo","date": "1950","description": "New Ranch Style home in Moscow, ID Donor: Pullman Moscow Daily News","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-359"
+
+},{  
+"title": "Photo","date": "1950","description": "Trailer Park, Moscow, ID Donor: Daily News","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-360"
+
+},{  
+"title": "Photo","date": "1950","description": "New home in Moscow, ID Donor: Daily News","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-361"
+
+},{  
+"title": "Photo","date": "1950","description": "New home in Moscow, ID Donor: Daily News","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-362"
+
+},{  
+"title": "Photo","date": "1950","description": "New home in Moscow, ID Donor: Daily News","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-363"
+
+},{  
+"title": "Cornwall House","date": "1979","description": "Cornwall House interior, Third AND Hayes St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-364"
+
+},{  
+"title": "Cornwall House","date": "1979","description": "Cornwall House interior, Third AND Hayes St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-365"
+
+},{  
+"title": "Cornwall House","date": "1979","description": "Cornwall House interior, Third AND Hayes St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-366"
+
+},{  
+"title": "Cornwall House","date": "1979","description": "Cornwall House interior, Third AND Hayes St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-367"
+
+},{  
+"title": "Cornwall House","date": "1979","description": "Cornwall House interior, Third AND Hayes St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-368"
+
+},{  
+"title": "Cornwall House","date": "1979","description": "Cornwall House interior, Third AND Hayes St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-369"
+
+},{  
+"title": "Photo","description": "View of small frame house, Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-370"
+
+},{  
+"title": "Photo","description": "View of small frame house, Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-371"
+
+},{  
+"title": "Photo","description": "View of small frame house, Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-372"
+
+},{  
+"title": "McConnell Mansion","date": "1900","description": "McConnell Mansion, Moscow, ID showing May Hannah, Maymie Borah and Ollie Leuderman from Latah County Pioneer Assn Hunter Book 1","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-373"
+
+},{  
+"title": "Headley Home","date": "1900","description": "E.R. Headley home, North Hayes, Moscow, ID Donor: Latah County Pioneer Assn from Hunter Book 1","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-374"
+
+},{  
+"title": "Taylor home","date": "1900","description": "T.H. Taylor home at 124 N. Polk St., Moscow, ID. Built by Alexander Ryrie. Donor: Latah County Pioneer Assn Hunter Book 1","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-375"
+
+},{  
+"title": "Sanchez home","date": "1993","description": "634 East B St., Moscow, ID Sanchez home","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-376"
+
+},{  
+"title": "325 N. Polk","date": "1992","description": "325 North Polk , Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-377"
+
+},{  
+"title": "325 N. Polk","date": "1993","description": "325 North Polk , Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-378"
+
+},{  
+"title": "Dernham Home","date": "1993","description": "Dernham Home, 418 East B St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-379"
+
+},{  
+"title": "Dernham Home","date": "1993","description": "Dernham Home, 418 East B St., Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-380"
+
+},{  
+"title": "Home at N. Polk and C Sts","date": "1980","description": "North Polk AND C St., Formerly Mark Metler and Bailey residence. Run as a group home in the 1980s by the Skramstads. Donor: Daily News","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-381"
+
+},{  
+"title": "122 S. Howard St., Frank Robinson home","description": "122 South Howard, F.B. Robinson home Donors: A. Robinson and F. Ashby","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-382"
+
+},{  
+"title": "Residence in winter","date": "1950","description": "Residence in winter, Moscow, ID Donor: V. Hofmann","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-383"
+
+},{  
+"title": "McConnell Mansion gable","date": "1997","description": "McConnell Mansion gable, Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-384"
+
+},{  
+"title": "482 Ridge Rd.","date": "1960","description": "482 Ridge Rd., Moscow, ID, home of Ella Oleson, U of I registrar, on far right Donor: Moscow Chamber of Commerce","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-385"
+
+},{  
+"title": "Moore House","date": "1910","description": "Moore House, Moscow, ID (also Shields and Henry) In picture are Andrew Frederick Henry, Gertrude Moore, Sir John Moore, Mary C. Shields, Henry Moore, John Moore, Jr., unknown Henry boy, Mae Henry, Laura Henry, 3 other Henry boys Donor: original in the Henry Family Trust","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-386"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-387"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-388"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard, Frank Robinson House, John and Jane Reed, owners backyard cottage","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-389"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St., Moscow, ID backyard cottage entrance Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-390"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard AT, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-391"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-392"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-393"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-394"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-395"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-396"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-397"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-398"
+
+},{  
+"title": "Frank Robinson Home","date": "1998-07","description": "122 S. Howard St, Moscow, ID Frank Robinson House, John and Jane Reed, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-399"
+
+},{  
+"title": "1026 Nez Perce Dr.","date": "1998-07","description": "Back yard of 1026 Nez Perce Drive, Moscow, ID U of I President's House","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-400"
+
+},{  
+"title": "1026 Nez Perce Dr.","date": "1998-07","description": "1026 Nez Perce Drive, Moscow, ID U of I President's House","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-401"
+
+},{  
+"title": "1026 Nez Perce Dr.","date": "1998-07","description": "1026 Nez Perce Drive, Moscow, ID U of I President's House","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-402"
+
+},{  
+"title": "1026 Nez Perce Dr.","date": "1998-07","description": "1026 Nez Perce Drive, Moscow, ID U of I President's House and water tower","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-403"
+
+},{  
+"title": "1026 Nez Perce Dr.","date": "1998-07","description": "1026 Nez Perce Drive, Moscow, ID U of I President's House front doors","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-404"
+
+},{  
+"title": "1026 Nez Perce Dr.","date": "1998-07","description": "1026 Nez Perce Drive, Moscow, ID U of I President's House and water tower","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-405"
+
+},{  
+"title": "1416 View St.","date": "1998-07","description": "garden at 1416 View St., Moscow, ID Gil and Betty Corey, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-406"
+
+},{  
+"title": "1416 View St.","date": "1998-07","description": "Garden at 1416 View St., Moscow, ID Gil and Betty Corey, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-407"
+
+},{  
+"title": "1416 View St.","date": "1998-07","description": "1416 View St., Moscow, ID Gil and Betty Corey, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-408"
+
+},{  
+"title": "1416 View St.","date": "1998-07","description": "1416 View St., Moscow, ID Gil and Betty Corey, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-409"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-410"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-411"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-412"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-413"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-414"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-415"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-416"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-417"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-418"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-419"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-420"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-421"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-422"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-423"
+
+},{  
+"title": "267 Circle Dr.","date": "1998-07","description": "267 Circle Drive, Moscow, ID Dan and Martha Schmidt, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-424"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-425"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "garden at 857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-426"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-427"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-428"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-429"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-430"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-431"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-432"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-433"
+
+},{  
+"title": "857 Orchard St.","date": "1998-07","description": "garden at 857 Orchard St., Moscow, ID Tim and Romana Hillebrand, owners","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-434"
+
+},{  
+"title": "Lampman House","date": "1940","description": "517 East B, Moscow, ID C E Lampman residence, showing wife Eleanor and daughters Marie and Marjorie Laser print from U of I Special Collections","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-435"
+
+},{  
+"title": "Lampman House","date": "1940","description": "517 East B, Moscow, ID C E Lampman residence","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-436"
+
+},{  
+"title": "Ross Home","description": "216 East A St, Moscow, ID One of Ross homes, A. C. Ross Foundation donor: Lois Blackburn","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-437"
+
+},{  
+"title": "650 East A St.","description": "650 East A St, Moscow, ID from the NW corner Bue/Juve residence","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-438"
+
+},{  
+"title": "photo","description": "home built by A.C. Ross in Moscow, ID","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-439"
+
+},{  
+"title": "photo","description": "back of house built by A.C. Ross off Public St, Moscow, ID Donor: Lois Blackburn","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-440"
+
+},{  
+"title": "314 S. Polk St.","description": "House at 314 South Polk St, Moscow, ID Arthur C. Ross residence Donor: Lois Blackburn","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-441"
+
+},{  
+"title": "216 A St.","description": "House at 216 A St, Moscow, ID Arthur C. Ross residence Donor: Lois Blackburn","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-442"
+
+},{  
+"title": "328 E. 2nd St.","description": "328 East 2nd St, Moscow, ID home of a Lieuallen family in l930s Donor: Peg Smiley","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-443"
+
+},{  
+"title": "328 E. 2nd St.","description": "328 East 2nd, Moscow, ID home of a Lieuallen family in l930s Donor: Peg Smiley","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-444"
+
+},{  
+"title": "McConnell Mansion","date": "2004-01","description": "McConnell Mansion, Moscow, ID, in winter Donor: Peg Smiley","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-445"
+
+},{  
+"title": "McConnell Mansion","description": "laser print of McConnell Mansion c. 1901, Moscow, ID Donor: Phyllis Gibson","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-446"
+
+},{  
+"title": "Franklin E. Mix homestead","date": "1910","description": "Franklin E. Mix homestead showing old hwy 95 heading north on the left (no Almon or Mix Rd.) Donor: John Mix","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-449"
+
+},{  
+"title": "Lieuallen home","description": "Lieuallen home on Almon St, Moscow (built by A. A. Lieuallen)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-450"
+
+},{  
+"title": "Lieuallen home","description": "Lieuallen home on Almon St, Moscow (built by A. A. Lieuallen)","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-451"
+
+},{  
+"title": "home at 735 8th St","date": "1900","description": "Home and garage at 735 8th Street at the corner of Lynn St. in Moscow, ID People are shown on the porch and in the yard.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-452"
+
+},{  
+"title": "722 Lynn St","description": "Photo of home at 722 Lynn St, Moscow, ID (home of Arthur Bjorklund family) Donor: Dorothy Bjorklund Campbell through Lisa Kliger","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-453"
+
+},{  
+"title": "722 Lynn St","description": "Photo of home at 722 Lynn St, Moscow, ID (home of Arthur Bjorklund family) Donor: Dorothy Bjorklund Campbell through Lisa Kliger","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-454"
+
+},{  
+"title": "McMconnell Mansion","date": "2009-09-21","description": "Photo of front of McConnell Mansion taken from Adams St. (2 copies).","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-456"
+
+},{  
+"title": "McConnell Mansion","date": "2009-09-21","description": "Photo of McConnell Mansion taken from the corner of Second and Adams streets (2 copies).","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-457"
+
+},{  
+"title": "First Ursuline Convent (Julia Moore home)","date": "1900","description": "photocopy of a photograph of the Ursuline Convent, once known as the Julia Moore home located at the corner of D and Howard Streets in Moscow, ID. The nine room house served as the first convent in the years after its opening on 09/14/1908. Later the house was razed and new facilities were constructed.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-458"
+
+},{  
+"title": "A Winter's Tale","description": "McConnell Mansion in winter an art photo signed by the photographer","subject": "Residential; Banks, Mary Norie; Idaho","location": "Moscow, ID", 
+"id": "01-05-459"
+
+},{  
+"title": "Lauder Home","description": "Wylie and Minnie Lauder home, 1320 Deakin, Moscow, ID. Looking southeast, showing stone path in foreground, as well as early plantings. Built by Wylie Lauder. Black and white 4x7. Excellent quality on stiff photoboard.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-460"
+
+},{  
+"title": "Lauder Home","date": "1932","description": "Wylie and Minnie Lauder home, 1320 Deakin, Moscow, ID. Looking southeast. ~August 1932. a Lauder Keeling (who lived in this home until a few years before her death): \"My present home built when I was 12. Beautiful flower gardens then! The Bray home stands now where the \"bridal path\" (we called it) of white flowers is. Mother was a beautiful gardener - flowers everywhere!\" Black and white 3x4 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-461"
+
+},{  
+"title": "Lauder Home","description": "Wylie and Minnie Lauder home, 1320 Deakin, Moscow, ID. Looking southwest. Winter scene with big icicles hanging from roof on east side Black and white print, 4x7, good quality.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-462"
+
+},{  
+"title": "Lauder Home","description": "Wylie and Minnie Lauder home, 1320 Deakin, Moscow, ID. Looking east. Winter, snow on ground. No date, but guessing it's an early photo of the place. Possibly a woman standing on the porch on the right side. Black and white 3x5 post card. Good quality.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-463"
+
+},{  
+"title": "Lauder Home","description": "Wylie and Minnie Lauder gardens, showing pond and bare lattice structure, barn in background. 1320 Deakin, Moscow, ID. Black and white 3x5 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-465"
+
+},{  
+"title": "Lauder Home","description": "Wylie and Minnie Lauder gardens, showing rock wall and round planter on pedestal. Hillside in background, possibly faint view of Paradise Ridge? 1320 Deakin, Moscow, ID. Black and white 5x7 good quality print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-466"
+
+},{  
+"title": "Lauder Home","description": "Wylie and Minnie Lauder gardens, showing block garage in background and decorative \"wishing well\" among flowers in garden. Girl in lower right corner. 1320 Deakin, Moscow, ID. Black and white 5x7 good quality print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-467"
+
+},{  
+"title": "1310 Deakin St.","description": "House at 1310 Deakin. Minnie Lauder had this built after Wylie's death and sold or rented it. Used blocks from Wylie's block manufacturing plant. Black and white 2x3 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-468"
+
+},{  
+"title": "1310 Deakin St.","description": "House at 1310 Deakin. Minnie Lauder had this built after Wylie's death and sold or rented it. Used blocks from Wylie's block manufacturing plant. House on right in background is Minnie's. She also had the house on left built, using Lauder blocks. Black and white 2x3 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-469"
+
+},{  
+"title": "1310 Deakin St.","description": "House at 1310 Deakin and house behind. Photo taken from behind the houses, looking west. Near corner of Taylor and Lauder Avenues (current street configuration). Taylor is the visible street. UI water tower and homes in distance are long gone. Minnie Lauder had these houses built after Wylie's death and sold or rented them. Used blocks from Wylie's block manufacturing plant. Black and white 2x3 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-470"
+
+},{  
+"title": "1310 Deakin St.","description": "House at 1310 Deakin under construction. Minnie Lauder had this house built soon after Wylie's death in 1935. Used cement blocks from Wylie's block manufacturing plant. Currently in 2017, it is owned by John and Phyllis Van Horn and is an apartment house. They have owned it for at least 20 years. Black and white 2x3 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-471"
+
+},{  
+"title": "1310 Deakin St.","description": "House at 1310 Deakin in winter, looking north. Minnie Lauder had this house built soon after Wylie's death in 1935. Used cement blocks from Wylie's block manufacturing plant. Currently in 2017, it is owned by John and Phyllis Van Horn and is an apartment house. They have owned it for at least 20 years. Black and white 3x5 print.","subject": "Residential; Idaho","location": "Moscow, ID", 
+"id": "01-05-472"
+
+},{  
+"title": "Moore House","description": "The home of Charles Moore and Julia A. (Kneen) Moore. This house stood on the southeast corner of D Street and Howard Street in Moscow, Idaho. The photograph shows the house among a field and trees without a road in sight. This victorian style house has a two-story bay window and a one story bay window. A widow's walk on the roof and a porch on the side.","subject": "Residential; Moore, Charles Moore, Julia A. (Kneen); Idaho","location": "Moscow, ID", 
+"id": "01-05-473"
+
+},{  
+"title": "First Methodist Church","date": "1883","description": "First Methodist Church, at 6th and Jefferson Sts, Moscow, ID Donor: First Methodist Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-001"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-002"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-003"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-004"
+
+},{  
+"title": "First United Methodist Church","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-005"
+
+},{  
+"title": "First United Methodist Church","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-006"
+
+},{  
+"title": "First Methodist Episcopal Church","date": "1910","description": "First Methodist Episcopal Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-007"
+
+},{  
+"title": "First Methodist Episcopal Church","date": "1910","description": "First Methodist Episcopal Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-008"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-009"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-010"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-011"
+
+},{  
+"title": "First United Methodist Church","date": "1980","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-012"
+
+},{  
+"title": "First United Methodist Church","date": "1904","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-013"
+
+},{  
+"title": "First United Methodist Church","description": "First United Methodist Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-014"
+
+},{  
+"title": "St. Mark's Episcopal Church","date": "1911","description": "St. Mark's Episcopal Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-015"
+
+},{  
+"title": "First Presbyterian Church","date": "1906","description": "First Presbyterian Church, Moscow, ID Donor: 1st Presbyterian Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-016"
+
+},{  
+"title": "Daughter's of Ruth class at 1st Presbyterian Church","date": "1916","description": "First Presbyterian Church, Moscow, ID - Daughter of Ruch Class Front row: Elsie Whitmore, Jennie Day, Mary Boyden, Mrs. Wm. Staples, Mrs. S. Heckathorn, Mrs. Wilson Brown, Mrs. J. J. Schick (teacher), Mrs. Ed Christenson, Mrs. Ed McConnell, Mrs. Albright, Mrs. J. N. Thompson, Mrs. George Pitcher 2nd row: Mrs. Oscar Mc Carton, Agnes Brown, Eda Holinger, Grandma Crawford, Mrs. Giese, Mrs. Gherstt?, Mrs. Fred McGowan, Mrs. Hunter (Miss Nel Burnham), Mollie Young, Mrs. Eldridge, Mrs. Axtell, Mrs. Woodworth, Mrs. Draper, Mrs. Clarice Schumacher, Mrs. Washburn, Mrs. Denning 3rd row: Mrs. Brooke Van Tillborg, Mrs. Coats, Mrs. Whitmore, Mrs. J. Sanberg, Margaret Reeder, Miss Mickey, Mrs. Naylor 4th row: Mrs. Ressler, Mrs. Frank Byrne, Mrs. Bayard Byrne, Mrs. Simpson, Mrs. Rosnagle, Mrs. I. Morton","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-017"
+
+},{  
+"title": "First Baptist Church","date": "1969","description": "First Baptist Church at First and Jackson Sts, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-018"
+
+},{  
+"title": "First Baptist Church","description": "First Baptist Church , SE corner of 1st & Jackson Sts, Moscow, ID, first church in Moscow, built 1881 donor: Clifford Ott","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-019"
+
+},{  
+"title": "First Baptist Church","date": "1876","description": "First Baptist Church , Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-020"
+
+},{  
+"title": "St. Mary's Catholic Church","date": "1979","description": "St. Mary's Catholic Church, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-021"
+
+},{  
+"title": "Moscow Fire Department","date": "1927","description": "Moscow Fire Department, Copy 1 is a postcard captioned \"Moscow's new Fire Department and Truck Equipment, dedicated November 10, 1927\". Standing in the middle are Fire Chief Carl Smith and Dr. C. C. Armstrong.","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-022"
+
+},{  
+"title": "Moscow Fire Department","date": "1927","description": "Moscow Fire Department personnel and trucks in front of the fire station Donor: Homer David","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-023"
+
+},{  
+"title": "Moscow Fire Department","date": "1927","description": "Moscow Fire Department man and trucks by the Post Office","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-024"
+
+},{  
+"title": "Moscow Fire Department","date": "1940","description": "Moscow Fire Department hook and ladder","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-025"
+
+},{  
+"title": "Children Visit Fire Dept.","description": "Fire Chief Smith talking to school children","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-026"
+
+},{  
+"title": "Children Visit Fire Dept.","description": "School children in fire truck in front of Moscow Fire Department","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-027"
+
+},{  
+"title": "Children Visit Fire Dept.","date": "1941","description": "School children on ladder truck, Moscow, ID, Essay winners for Fire Prevention Week in front of Moscow Fire Department","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-028"
+
+},{  
+"title": "Moscow Fire Department","description": "Fire Chief Smith and truck, Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-029"
+
+},{  
+"title": "Moscow Fire Department","description": "Moscow Fire Department Drill Team in a gym, Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-030"
+
+},{  
+"title": "Moscow Fire Department","description": "Trucks, Fireman, and others in front of Moscow Fire Department, Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-031"
+
+},{  
+"title": "Moscow Fire Department","date": "1940","description": "Fire truck, men looking at tire, Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-032"
+
+},{  
+"title": "Moscow Fire Department","description": "Hook and ladder replacing light bulb at the University of Idaho, Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-033"
+
+},{  
+"title": "Moscow Fire Department","date": "1945","description": "Crowd of people with fire truck, Texaco sign Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-034"
+
+},{  
+"title": "Moscow Fire Department","date": "1945","description": "Fire Chief Smith and others, Moscow, ID","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-035"
+
+},{  
+"title": "Moscow Fire Department","description": "Moscow Fire Department, Moscow, ID a few people are identified on the back","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-036"
+
+},{  
+"title": "Gritman Hospital","date": "1915","description": "Gritman Hospital, Moscow, ID, original postcard in color, image 532 which was written and mailed","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-038"
+
+},{  
+"title": "Gritman Hospital","description": "Gritman Hospital, Carithers Hospital, Moscow, ID","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-039"
+
+},{  
+"title": "Gritman Hospital","date": "1915","description": "Gritman Hospital, Carithers Hospital, Moscow, ID","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-040"
+
+},{  
+"title": "Gritman Hospital","description": "Gritman Hospital, new building at S. Main and Seventh Sts, Moscow, ID","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-041"
+
+},{  
+"title": "Carnegie Library","date": "1916","description": "Carnegie Library , Moscow, ID image on a postcard sent in 1916 Donor: Ken Hedglin","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-042"
+
+},{  
+"title": "Carnegie Library","date": "1908","description": "Carnegie Library, Moscow, ID Donor: E Fiscus","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-043"
+
+},{  
+"title": "Carnegie Library","date": "1910","description": "Carnegie Library, Moscow, ID","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-044"
+
+},{  
+"title": "Carnegie Library","date": "1980","description": "Carnegie Library, Moscow Public Library, Moscow, ID","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-045"
+
+},{  
+"title": "Carnegie Library","date": "1980","description": "Carnegie Library, Moscow Public Library, Moscow, ID","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-046"
+
+},{  
+"title": "Carnegie Library","date": "1980","description": "Carnegie Library, Moscow Public Library, Moscow, ID","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-047"
+
+},{  
+"title": "Carnegie Library","date": "1980","description": "Carnegie Library, Moscow Public Library, Moscow, ID","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-048"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-049"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-050"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-051"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-052"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-053"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-054"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-055"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-056"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-057"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-058"
+
+},{  
+"title": "Old Post Office construction","date": "1910-08-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-059"
+
+},{  
+"title": "Old Post Office construction","date": "1910-08-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-060"
+
+},{  
+"title": "Old Post Office construction","date": "1910-09-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-061"
+
+},{  
+"title": "Old Post Office construction","date": "1910-10-04","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-062"
+
+},{  
+"title": "Old Post Office construction","date": "1910-11-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-063"
+
+},{  
+"title": "Old Post Office construction","date": "1910-12-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-064"
+
+},{  
+"title": "Old Post Office construction","date": "1911-02-14","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-065"
+
+},{  
+"title": "Old Post Office construction","date": "1911-01-04","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-066"
+
+},{  
+"title": "Old Post Office construction","date": "1911-03-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-067"
+
+},{  
+"title": "Old Post Office construction","date": "1910","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-068"
+
+},{  
+"title": "Old Post Office construction","date": "1911-06-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-069"
+
+},{  
+"title": "Old Post Office construction","date": "1911-09-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-070"
+
+},{  
+"title": "Old Post Office construction","date": "1911-08-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-071"
+
+},{  
+"title": "Old Post Office construction","date": "1911-04-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-072"
+
+},{  
+"title": "Old Post Office construction","date": "1911-07-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-073"
+
+},{  
+"title": "Old Post Office construction","date": "2011-10-04","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-074"
+
+},{  
+"title": "Old Post Office construction","date": "1910-10-04","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-075"
+
+},{  
+"title": "Old Post Office construction","date": "1910-11-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-076"
+
+},{  
+"title": "Old Post Office construction","date": "1911-01-04","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-077"
+
+},{  
+"title": "Old Post Office construction","date": "1910-12-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-078"
+
+},{  
+"title": "Old Post Office construction","date": "1911-06-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-079"
+
+},{  
+"title": "Old Post Office construction","date": "1911-04-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-080"
+
+},{  
+"title": "Old Post Office construction","date": "1911-03-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-081"
+
+},{  
+"title": "Old Post Office construction","date": "1911-02-03","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-082"
+
+},{  
+"title": "Old Post Office construction","date": "2011-10-04","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-083"
+
+},{  
+"title": "Old Post Office construction","date": "1911-07-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-084"
+
+},{  
+"title": "Old Post Office construction","date": "1911-08-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-085"
+
+},{  
+"title": "Post Office/Federal Building","date": "1910","description": "Newly constructed Post Office/Federal Building (used from 1911 to 1974) taken from Washington St., showing Whitworth School in the background (note on construction attached to copy 2: Main building is 50' by 90', cost per cu ft. $.33, total construction cost was $87,301)","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-086"
+
+},{  
+"title": "Old Post Office foundation construction","date": "1910-05-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-087"
+
+},{  
+"title": "Old Post Office","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-088"
+
+},{  
+"title": "Post Office/Federal Building, newly constructed","date": "1910","description": "Old Post Office/Federal Building, newly constructed","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-089"
+
+},{  
+"title": "Old Post Office construction; foundation","date": "1910-07-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-090"
+
+},{  
+"title": "Old Post Office construction; foundation","date": "1910-06-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-091"
+
+},{  
+"title": "1912 Center tree removal","date": "2012","description": "Tree removal at the 1912 Center prior to building a parking lot on the west side of the building","subject": "Moscow Public Buildings; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-091a"
+
+},{  
+"title": "Old Post Office","date": "1910","description": "Old Post Office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-092"
+
+},{  
+"title": "Old Post Office","date": "1911-05-01","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-093"
+
+},{  
+"title": "Moscow Volunteer Fire Department/Federal Building","description": "Moscow Volunteer Fire Department in front of the Federal Building/Post Office","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho", 
+"id": "01-06-094"
+
+},{  
+"title": "Car full of people at Post Office","date": "1910","description": "old car full of people by Federal Building/Post Office steps","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-095"
+
+},{  
+"title": "Old Post Office construction","date": "1910-09-02","description": "Old Post Office construction, Moscow, ID","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-096"
+
+},{  
+"title": "Old Post Office interior","date": "1910","description": "Old Post Office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-096a"
+
+},{  
+"title": "old Moscow Post Office","date": "1980","description": "Old Post Office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-099"
+
+},{  
+"title": "Old Post Office/Federal Building","date": "1980","description": "Old Post Office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-101"
+
+},{  
+"title": "Dernham and Kaufman Building","date": "1890","description": "Dernham and Kaufman Building, was the Old Post Office in the 1890s, later bought by Davuid and Eli in 1899.","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-102"
+
+},{  
+"title": "Paradise Valley Post Office","date": "1872","description": "Paradise Valley (Moscow's) first post office; copy #3 Copy 1 copied from a Carssow book; paragraph of information included.","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Paradise Valley (Moscow)", 
+"id": "01-06-103"
+
+},{  
+"title": "Old Police Station","date": "1950","description": "Old Police Station, east of City Hall at 108 East 4th St","subject": "Moscow Public Buildings; Police Station; Idaho","location": "Moscow, ID", 
+"id": "01-06-104"
+
+},{  
+"title": "Latah County Courthouse","date": "1950","description": "Latah County Courthouse, 1888-1958. Located in the center of block between 5th and 6th Sts, Adams and Van Buren Sts.","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-105"
+
+},{  
+"title": "Latah County Courthouse demolition","date": "1958","description": "Latah County Courthouse demolition, Donor: Idahonian","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-106"
+
+},{  
+"title": "Russell School","date": "1883","description": "Russell School, Moscow's first public school ( 2 rooms in 1883, remodeled in 1885 and again in 1889)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-107"
+
+},{  
+"title": "Russell School","date": "1885","description": "Russell School with a large group of people in front (after the remodeling of 1885). Original structure is in the rear.","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-108"
+
+},{  
+"title": "Gritman Hospital","description": "Gritman Hospital, Donor: Idahonian","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-109"
+
+},{  
+"title": "Moscow High School in winter","date": "1900","description": "First Moscow High School in winter","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-110"
+
+},{  
+"title": "Russell School","date": "1885","description": "Russell School View shows original building in back part and addition of 1885 in front.","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-112"
+
+},{  
+"title": "Moscow High School","date": "1903","description": "First Moscow High School and a class - There are two prints on one piece of photo paper: .01 shows the school building .02 shows Mrs. Headington's class Donor: A. Walter Johnson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-113"
+
+},{  
+"title": "Dedication plaque on Moscow High School","date": "1939","description": "Moscow High School Dedication Plaque to Dr. Muerman","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-114"
+
+},{  
+"title": "Moscow High School dedication plaques to Dr. Meurman","date": "1939","description": "Moscow High School Dedication Plaque to Dr. Muerman","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-115"
+
+},{  
+"title": "Lena Whitmore School","description": "Lena Whitmore Elementary School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-116"
+
+},{  
+"title": "Moscow High School","date": "1915","description": "Moscow High School (later the 1912 Center) Donor: D.D. DuSault","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-117"
+
+},{  
+"title": "Russell School","description": "Russell School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-118"
+
+},{  
+"title": "Schools: Russell, Irving and Moscow High","date": "1885","description": "Three schools: Russell, Irving and Moscow High","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-119"
+
+},{  
+"title": "First Moscow High School","date": "1910","description": "First Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-120"
+
+},{  
+"title": "First Moscow High School","date": "1900","description": "First Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-121"
+
+},{  
+"title": "Moscow High School Christmas geeting","date": "1915","description": "Moscow High School Christmas geeting","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-122.01"
+
+},{  
+"title": "Moscow High School Christmas geeting","date": "1915","description": "First Moscow High School, Christmas Greetings","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-122.02"
+
+},{  
+"title": "Moscow High School","date": "1912","description": "First Moscow High School (1912-1939)","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-123"
+
+},{  
+"title": "Moscow High School","date": "1950","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-124"
+
+},{  
+"title": "Moscow High School windows","date": "1950","description": "Moscow High School windows","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-125"
+
+},{  
+"title": "Moscow High School decorative exterior panel","date": "1950","description": "Moscow High School decorative exterior panel","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-126"
+
+},{  
+"title": "St. Mary's School","description": "St. Mary's School, Class by building","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-131"
+
+},{  
+"title": "Russell School playground","description": "Russell School playground, showing children at the sliding board","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-132"
+
+},{  
+"title": "Moscow High School, girls playing volleyball","description": "Moscow High School, girls playing volleyball","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-136"
+
+},{  
+"title": "Moscow High School","date": "1899","description": "Moscow High School members of classes 1899 and 1900 seated in a classroom","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-141"
+
+},{  
+"title": "Whitworth School interior","description": "Whitworth School interior of office or classroom; man seated at desk","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-143"
+
+},{  
+"title": "Classroom Interior","date": "1899","description": "Unknown school","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-144"
+
+},{  
+"title": "Russell School","description": "Russell School classroom interior","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-147"
+
+},{  
+"title": "Moscow High School and Methodist Church","date": "1910","description": "photo of age from a book showing Moscow's Central High School and Moscow's Methodist Church","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-157"
+
+},{  
+"title": "Carnegie Library and Elks Temple","date": "1910","description": "Photo of page from a book showing Moscow's Carnegie Library and Elks Temple","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-158"
+
+},{  
+"title": "Moscow City Band on Post Office steps","date": "1912","description": "Moscow City Band on Post Office steps","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-159"
+
+},{  
+"title": "Moscow High football field construction","date": "1940","description": "Clearing the grounds for a new Moscow High School football field where Whitworth School used to stand","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-162"
+
+},{  
+"title": "New Moscow High School","date": "1940","description": "New Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-163"
+
+},{  
+"title": "Moscow High School","date": "1912","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-165"
+
+},{  
+"title": "Carnegie Library","date": "1911","description": "Carnegie Library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-166"
+
+},{  
+"title": "Irving School","date": "1911","description": "Irving School housed 7th and 8th grades (built in 1901, razed in 1926)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-167"
+
+},{  
+"title": "Zion Church/Swedish Lutheran","date": "1905","description": "Zion Church/Swedish Lutheran (built in 1905) McConnell Mansion is visible in the far left background.","subject": "Moscow Public Buildings; Churches; Idaho","location": "2nd St., Moscow, ID", 
+"id": "01-06-168"
+
+},{  
+"title": "Moscow High School","date": "1911","description": "First Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-169"
+
+},{  
+"title": "Post Office and Federal Building","date": "1910","description": "Post Office and Federal Building","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-170"
+
+},{  
+"title": "First organized high school class","date": "1890","description": "first organized high school class: Lily Woodworth, Jemma Cable, Nanid Jones, Mary Spotswood, Margaret Scully, M. M. Lane, Ada Cable, Marguerite Van deWalker, and pricipal, J. C. Muerman","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-174"
+
+},{  
+"title": "Presbyterian Church interior","date": "1945","description": "Presbyterian Church interior","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-175"
+
+},{  
+"title": "8th grade graduation, 1908","date": "1908","description": "8th grade graduation, 1908 Back row l to r: Ralph Lauder, Julia Cummings, Ethel Kroh, Miss Madsen (teacher), Mr. Carlson (teacher), Katherine Keane, Tessie Keane, Rebecca Russell, Mary Nolan, Miss Smith (teacher), Mr. Morgareidge Vroman (Principal of Irving School), Gladys Nankervis, Ray Martin Middle row l to r: Fred Clough, Bertha Whitley, Gertrude Miller, Mary Crozier, Arthur Heick, Clara Abrahamson, ? Hansen, Harry Harrington, Edna Horton, Mildred Martin, Ruth Edgett, ? Hollingshead, Bessie Dowdy, Orin Edgett Front row l to r: Ben Stewart, Marjorie Zumhof, Lillian Carithers, Clarice Moody, Edith Toole, Bertha Mulfinger, Hazel Garten, Mamie Laws, Camille Smith, Elizabeth Tracy, Leon Richcreek, Emma Sundel, Winniefred Edmondson, Anita Taylor, Raymond Safford, Marguerite Bourne Donor: Clarice Moody Sampson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-176"
+
+},{  
+"title": "Old Post Office and surroundings","date": "1930","description": "Old Post Office viewed from the top of a building a block away. Original postcard shows Moscow Publishing Co. in the foreground. C2 is an enlargement of area closer to the post office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-191"
+
+},{  
+"title": "Location of first log school","description": "Location of first log school in 1871 on Haskin's Flat north of George Tomer's farm. Dr. Muerman and Mr. David are in the foreground.","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-194"
+
+},{  
+"title": "McGuire School House","description": "Homer \"Harm\" Stewart, pointing to the location of the McGuire School House (1878-1880) on what was generally known as the Scattaboe Farm, southwest of the Moscow Cemetery","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-195"
+
+},{  
+"title": "Methodist Church","description": "Moscow Methodist Church, looking NW","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-196"
+
+},{  
+"title": "Methodist Church","description": "Moscow Methodist Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-197"
+
+},{  
+"title": "Methodist Church","description": "Moscow Methodist Church, view of the front","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-198"
+
+},{  
+"title": "Ursuline basketball team","description": "Ursuline basketball team, Moscow Donor: The Idahonian","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow. ID", 
+"id": "01-06-220"
+
+},{  
+"title": "Moscow High School basketball team, 1905","date": "1905","description": "Moscow basketball team: Mix, Longanacker, Holman, Arnold, Sharonack, Roosevelt, Middleton, Cox?, Bodie?, Sebrun?, Gilbreth, Grice","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-221"
+
+},{  
+"title": "Elementary Class","date": "1903","description": "Moscow elementary school class. Photo taken on the school steps, south side of 3rd St, opposite the Methodist Church. (a few students are identified on the back of the photo)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-222"
+
+},{  
+"title": "Irving School 4th Grade","date": "1904","description": "Fourth grade at Irving School with teacher, Miss Lena Whitmore Donor: Clarice Moody Sampson 2 copies of photo, both identify members of the class on the back Row 1: Arlee Lyons, Carrie Kennedy, Lizzie Tracy, Camille Smith, and Ruth McCarter Row 2: Orrin Edgett, Tessie Keane, Julia Cummings, Winnifred Edmundson, Lillian Carithers Row 3: Howard Frazee, Mamie Laus, unknown, Margery Thomas, Gladys Nankervis Row 4: Mildred, Bessie Dowdy, Clarice Moody Row 5: Marguerite Bourn, ?, Harold Giles Row 6: Miss Lena Whitmore, Dora, Hartha Wieman, Elmer Almquist, ?, Dixie Heath, Louis Shields Row 7: ?, __Benedict, James Shields, Archie Ladd Row 8: ?, ___ Wiemann","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-223"
+
+},{  
+"title": "Graduating Class","description": "Graduating Class, Moscow","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-225"
+
+},{  
+"title": "Irving School 8th grade","description": "Clarice Sampson's 8th grade class at Irving School, Moscow, ID Donor: Clarice Moody Sampson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-226"
+
+},{  
+"title": "Irving School class: Lena Whitmore","description": "Lena Whitmore's class at Irving School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-227"
+
+},{  
+"title": "Second grade class","date": "1902","description": "Clarice Sampson's 2nd grade class, Mrs. Eckman, teacher Donor: Clarice Moody Sampson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-228"
+
+},{  
+"title": "Elementary School children","description": "Elementary School children, Moscow","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-229"
+
+},{  
+"title": "Decorating","description": "Two girls putting stars on a board","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-230"
+
+},{  
+"title": "Training the Hands","description": "Three boys in shop class. Photo titled \"Training the Hands\".","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-231"
+
+},{  
+"title": "Science Class","description": "Science lab class - \"Training in the use of the scientific method for problem solving\". Donor: Harold Weigand","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-232"
+
+},{  
+"title": "Children Playing","description": "Children Playing","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-233"
+
+},{  
+"title": "Children Playing","description": "Children Playing (2 photos) one shows boys running, maybe playing tag, and the second shows boys playing marbles","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-234"
+
+},{  
+"title": "Children Playing","description": "Children Playing at Irving School? on 3rd St across from the Methodist Church","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-235"
+
+},{  
+"title": "Children Playing","description": "Children Playing","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-236"
+
+},{  
+"title": "Shop Class","description": "Children in shop class","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-238"
+
+},{  
+"title": "Children on slide","description": "Children on sliding board in a playground","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-239"
+
+},{  
+"title": "Teacher and Student","description": "Teacher and Student","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-240"
+
+},{  
+"title": "Biology Class","description": "Biology class showing one boy and two girls dissecting frogs","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-241"
+
+},{  
+"title": "Football game","description": "Football game action","subject": "Moscow Public Buildings; Schools; Idaho","location": "Mosocw, ID", 
+"id": "01-06-242"
+
+},{  
+"title": "School Crossing Guard","description": "school crossing guard with \"Slow, School\" sign","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-243"
+
+},{  
+"title": "Basketball game","description": "Basketball game","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-244"
+
+},{  
+"title": "Children at a party","description": "Children at a party","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-245"
+
+},{  
+"title": "Children Outside","description": "Children Outside School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-246"
+
+},{  
+"title": "Boarding a Train","description": "Children (school classes with teachers?) boarding train","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-247"
+
+},{  
+"title": "Students","description": "Students in line","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-248"
+
+},{  
+"title": "Shop class","description": "Shop Class (metal work)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-249"
+
+},{  
+"title": "Students","description": "Two children in a school room, one sawing board","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-250"
+
+},{  
+"title": "Home Economics","description": "Home Economics Class","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-251"
+
+},{  
+"title": "Students","description": "School girls on steps of school","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-252"
+
+},{  
+"title": "Students practicing a play","description": "Students practicing a play","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-253"
+
+},{  
+"title": "Students at the Library","description": "Students at the Library","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-254"
+
+},{  
+"title": "Studying","description": "adults studying or filling out forms","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-255"
+
+},{  
+"title": "Home Economics","description": "Girls working at sewing machines in home economics class","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-256"
+
+},{  
+"title": "First High School in Moscow","date": "1900","description": "First High School in Moscow","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-259"
+
+},{  
+"title": "St. Mark's Episcopal Church","date": "1900","description": "St. Mark's Episcopal Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-261"
+
+},{  
+"title": "Classroom Interior","date": "1899-02-02","description": "Classroom interior showing young girl at the blackboard","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-262"
+
+},{  
+"title": "Moscow High School Dedication Plaque","date": "1939","description": "Moscow High School 1939 dedication plaque to Dr. John Charles Muerman, principal from 1891 to 1901","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-263"
+
+},{  
+"title": "Moscow High School","date": "1914","description": "Moscow High School Donor c1: Ken Hedglin","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-264"
+
+},{  
+"title": "Group of people outside","description": "Group of people outside","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-265"
+
+},{  
+"title": "Children with Flag","description": "Children in front of classroom by US flag","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-266"
+
+},{  
+"title": "Five Churches","date": "1914","description": "Five Moscow Churches Donor: Ken Hedglin","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-267"
+
+},{  
+"title": "Firehouse and Engine 7","description": "Firehouse and Engine 7","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-268"
+
+},{  
+"title": "St Mary's Church Jubilee Door","date": "2000-07","description": "Jubilee door, St Mary's Catholic Church (description of Jubilee Year celebration on back of photo) Donor: Julie Monroe","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-269"
+
+},{  
+"title": "Moscow High School Dedication","date": "1960","description": "Dedication of Moscow High School in 1960, honoring Dr. John Charles Muerman (here aged 95)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-272"
+
+},{  
+"title": "Latah County Courthouse","date": "1938","description": "Latah County Courthouse located between 5th and 6th Sts., at Van Buren St.","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-278"
+
+},{  
+"title": "Latah County Courthouse, Garage","date": "1938","description": "Latah County Courthouse, garage","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-279"
+
+},{  
+"title": "Latah County Jail","date": "1938","description": "Latah County Jail","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-280"
+
+},{  
+"title": "Military group at McGregor House","date": "1900?","description": "Military group at McGregor House (built 1890)-- Later Gritman Hospital","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-281"
+
+},{  
+"title": "Russell School second grade","date": "1942-05-01","description": "Ms. Whitmore's 2nd Grade class, Russell School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-282"
+
+},{  
+"title": "Moscow High School","date": "1912","description": "Moscow High School (from 1912-1939; in 1985 it housed school district offices) Donor: Mrs. Judd Kimball","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-283"
+
+},{  
+"title": "McGregor House","description": "McGregor House (a hotel until 1897 when it was turned into a hopsital) Donor: Mrs. Judd Kimball","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-284"
+
+},{  
+"title": "McGregor House","date": "1891-03","description": "a) McGregor House, J. T. Gear, proprietor, located at the SE corner of 7th and Main Sts., Moscow, ID Donor: Montana Historical Society b) second photo of McGregor House: a row of people and vehicles in front","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-285"
+
+},{  
+"title": "Moscow Bussinessmen's Club","date": "1904","description": "Moscow Bussinessmen's Club when occupied by Moscow Business College(later, Inland Hospital-see note on back) Copy by Clifford Ott","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-286"
+
+},{  
+"title": "Old County Courthouse","date": "1950","description": "Old Latah County Courthouse, built in 1888 (two years before ID became a state) Donor: The Idahonian","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-287"
+
+},{  
+"title": "McGregor House","date": "1890","description": "McGregor House, built in 1892 at SE corner of Main and 7th Sts. Razed in 1942 for Gritman Hospital. People and wagons in front","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-288"
+
+},{  
+"title": "Carnegie Library","description": "Carnegie Library Donors: Mike Fritz, Fred Becker","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-289"
+
+},{  
+"title": "McGregor House","description": "McGregor House (identified on photo as Gritman Hospital)","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-290"
+
+},{  
+"title": "Moscow Post Office Construction","date": "1911","description": "Post Office Construction at NE corner of Washington and 3rd Sts. Construction started May 2, 1910 and finished July 1, 1911 Donor: Ken Hedglin","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-291"
+
+},{  
+"title": "Old County Courthouse","date": "1900","description": "Old County Courthouse Donor: Loyal Talbott","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-292"
+
+},{  
+"title": "Moscow High Graduating Class 1903","date": "1903","description": "Moscow High School 1903 Class Ralph Naylor, second from right Donor: Loyal Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-293"
+
+},{  
+"title": "Moscow High School graduating class","date": "1903?","description": "Moscow High School Graduating Class Donor: Loyal Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-294"
+
+},{  
+"title": "Russell School 2nd grade","date": "1944","description": "Ms. Whitmore's 2nd Grade class, Russell School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-295"
+
+},{  
+"title": "First Baptist Church's college group","date": "1930","description": "First Baptist Church's college aged group; Rev. Burton, back row, right end Church was located at 1st and Jackson Sts. Donor: Earl Humphrey","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-296"
+
+},{  
+"title": "Moscow Public Library","description": "Moscow Public Library , a Carnegie Library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-297"
+
+},{  
+"title": "Moscow Public Library","description": "Moscow Public Library, a Carnegie Library Donor: Mike Fritz","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-298"
+
+},{  
+"title": "Five Moscow Churches","description": "Five Moscow Churches: Baptist Church, Presbyterian Church, Methodist Church, Norwegian Lutheran Church, and Swedish (?) Church Copy of a Mike Fritz postcard (see also 01-06-267)","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-299"
+
+},{  
+"title": "Dr Carither's Inland Hospital","description": "Dr Carither's Inland Hospital: c1 is a copy of Mike Fritz' postcard, c2 is original postcard Donor, C2: C Cox","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-300"
+
+},{  
+"title": "Russell School","date": "1929","description": "Russell School (elementary)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-301"
+
+},{  
+"title": "1st Moscow High School football team","date": "1914","description": "Moscow High School Football Team (coach and players' names are written on front) Donor: George Fallquist","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-302"
+
+},{  
+"title": "Moscow High School Girl's Basketball Team","date": "1912","description": "Moscow High School Girl's Basketball Team L to R: Flora Loomis (Stillinger), Olive Frazier, Ruth Burton, Ruth Harris (Huff), Pearl Buchan, Mabel Drury (Gano) Donor: George Fallquist","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-303"
+
+},{  
+"title": "Moscow High lettermen","date": "1913","description": "Moscow High Basketball Players Clyde \"Buck\" Hunter and George Fallquist in Moscow High letter sweaters for playing basketball and baseball (see note about Hunter on back) Donor: George Fallquist","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-304"
+
+},{  
+"title": "Moscow High School basketball players","date": "1911","description": "Moscow High School basketball players, \"Buck\" Hunter and O. R. Sam Stillinger Notes about their sports careers on back. Donor: George Fallquist","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-305"
+
+},{  
+"title": "Moscow High School, Methodist Church","description": "Moscow High School and Methodist Church on Third St., Donors: c1 from Robert & Mildred Kinser and c2. from Wes Smith","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-306"
+
+},{  
+"title": "Moscow Fire Department","date": "1903","description": "Moscow Fire Department, No 2 Hose Company Donor: Mrs. C. A. Lundquist","subject": "Moscow Public Buildings; Moscow Fire Department; Idaho","location": "Moscow, ID", 
+"id": "01-06-308"
+
+},{  
+"title": "Latah County Courthouse","description": "Latah County Courthouse","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-309"
+
+},{  
+"title": "Moscow Pullman Regional Airport","date": "1940","description": "Moscow Pullman Regional Airport (aerial view) Donor: Helen Wilson","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-310"
+
+},{  
+"title": "Irving School class","date": "1914","description": "Irving School class, possibly 3rd grade, Donor: Florence Sampson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-311"
+
+},{  
+"title": "First Methodist Church","date": "1910","description": "First Methodist Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-312"
+
+},{  
+"title": "Moscow High School & Methodist Church","date": "1910","description": "Moscow High School and Methodist Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-313"
+
+},{  
+"title": "Moscow Post Office, Federal Building","date": "1910","description": "Moscow Post Office, Federal Building, unused postcards titled \"Post Office, Moscow, Idaho\" and \"533. Federal Building, Moscow, ID\"","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-314.01"
+
+},{  
+"title": "Moscow Federal Building (Post Office)","date": "1910","description": "Used postcard titled \"533. Federal Building, Moscow, ID\"","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-314.02"
+
+},{  
+"title": "Episcopal Church","date": "1986","description": "Episcopal Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-315"
+
+},{  
+"title": "Old Russell School","date": "1900","description": "Russell School (after an addition in 1888) Donor: Gerry Hagedorn","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-316"
+
+},{  
+"title": "Whitworth School","date": "1900","description": "Old Whitworth School, Donor: Gerry Hagedorn","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-317"
+
+},{  
+"title": "Irving School","date": "1900","description": "Irving School Donor: Gerry Hagedorn","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-318"
+
+},{  
+"title": "First Methodist Church","date": "1900","description": "Methodist Church Donor: Gerry Hagedorn","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-319"
+
+},{  
+"title": "City Hotel","date": "1800","description": "City Hotel with lodgers and cook out front, Owned by the Carter Family, Donor: Perry Carter","subject": "Moscow Public Buildings; Hotel; Idaho","location": "Moscow, ID", 
+"id": "01-06-320"
+
+},{  
+"title": "Moscow High School","date": "1912","description": "Old Moscow High School, Donor: Gerry Hagedorn","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-321"
+
+},{  
+"title": "Russel School","date": "1900","description": "Old Russell School Donor: C2, Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-322"
+
+},{  
+"title": "Post Office","description": "Post Office Donor: Ken Hedglin Post office was completed in 1911, photo is after 1911.","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-323"
+
+},{  
+"title": "Moscow High School","date": "1913-01","description": "Old Moscow High School, Donor: Ken Hedlin","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-324"
+
+},{  
+"title": "Methodist Church","date": "1911","description": "Methodist Church, Donor: Ken Hedglin","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-325"
+
+},{  
+"title": "Whitworth School teachers","date": "1928-03","description": "Whitworth School teachers, Included are: Davis Shea, Glatha Zumwalt (Erickson), Florence Dinsmore, Lena Whitmore Donors: Carol Blum & Duane Erickson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-326"
+
+},{  
+"title": "Russell School class","date": "1928","description": "Russell School Class, children seated at desks; teacher, Glatha Zumwalt Erickson in back Donors: Carol Blum & Duane Erickson","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-327"
+
+},{  
+"title": "Church of God members","date": "1890","description": "Church of God Members, Donor: Carol Blum","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-328"
+
+},{  
+"title": "1st County Courthouse","description": "Old Latah County Courthouse Donor: Judge Bill Hamlett, who owns negative","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-329"
+
+},{  
+"title": "First Presbyterian Church & Westminster Foundation","description": "First Presbyterian Church & Westminster Foundation","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-330"
+
+},{  
+"title": "Altar in 1st Presbyterian Church","description": "Alter in chapel of First Presbyterian Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-331"
+
+},{  
+"title": "Altar in 1st Presbyterian Church","description": "Altar in First Presbyterian Church, Moscow (behind door)","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-332"
+
+},{  
+"title": "Moscow High School dedication","date": "1889","description": "Dedication first Moscow High School, Donor: Gerry Hagedorn","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-333"
+
+},{  
+"title": "First Baptist Church congregation","date": "1957","description": "First Baptist Church congregation, Donor: Ken Hedglin","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-334"
+
+},{  
+"title": "Moscow High School","description": "Moscow High School, back inscribed \"Compliments of Hubblell Kally Co., architects, Spokane, Wa\" Donor: Clyde","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-335"
+
+},{  
+"title": "Minister and organist, Moscow 1st Baptist Church","date": "1939","description": "First Baptist Church Minister Rev James Whiman, Orlin R. Gossett, Organist, Miss Miriam Hughes (later married to Judson Smith) Donor: Ken Hedglin","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-336"
+
+},{  
+"title": "Post Office","description": "Moscow Post Office, color tinted, Donor: Ken Hedglin","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-337"
+
+},{  
+"title": "Moscow City Hall","description": "City Hall, P. Carter and B. Anderson","subject": "Moscow Public Buildings; City Hall; Idaho","location": "Moscow, ID", 
+"id": "01-06-338"
+
+},{  
+"title": "5th grade at Whitworth School","date": "1916","description": "5th grade at Whitworth School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-339"
+
+},{  
+"title": "Gritman Hospital","description": "Second Gritman Hospital","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-340"
+
+},{  
+"title": "Moscow First Church of God","date": "1980","description": "First Church of God, Moscow Donor: The Idahonian","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-341"
+
+},{  
+"title": "4th grade class","description": "Stanley Shell's 4th grade class includes Stanley Shell, Gerald Hodgins, Donor: Joanna Shell?","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-342"
+
+},{  
+"title": "Carnegie Library","description": "Carnegie Library, Moscow, ID Donor: Loris Jones","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-343"
+
+},{  
+"title": "PHOTO","description": "Minnie Taylor Lauder, 2 Moscow Schools in background Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-344"
+
+},{  
+"title": "Russell School","date": "1883","description": "Russell School, adults and students in front and on side of building","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-345"
+
+},{  
+"title": "First Christian Church","date": "1960","description": "First Christian Church on Third St. behind old Post Office Donor: Mrs. Earl Woods","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-346"
+
+},{  
+"title": "Seventh Day Adventist Church","date": "1940","description": "Seventh Day Adventist Church on W. Third St., Moscow Donor: Mrs. Earl Woods","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-347"
+
+},{  
+"title": "First Christian Church","date": "1940","description": "First Christian Church Donor: Ken Hedglin","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-348"
+
+},{  
+"title": "Catholic Church interior","date": "1948-08-13","description": "Catholic Church interior Donor: Ken Hedglin","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-349"
+
+},{  
+"title": "Whitworth School","date": "1947-07-11","description": "Whitworth School Donor: Ken Hedglin","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-350"
+
+},{  
+"title": "Sewage Plant","date": "1948","description": "Sewage Plant","subject": "Moscow Public Buildings; Sewage Plant; Idaho","location": "Moscow, ID", 
+"id": "01-06-351"
+
+},{  
+"title": "Gritman Hospital","date": "1940","description": "Gritman Hospital","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-352"
+
+},{  
+"title": "First Methodist Church","description": "First Methodist Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-353"
+
+},{  
+"title": "Moscow High School","date": "1926","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-354"
+
+},{  
+"title": "Gritman Hospital CAT Scanner","date": "1986","description": "Gritman Hospital CAT Scanner","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-355"
+
+},{  
+"title": "Moscow High School addition","date": "1990","description": "Moscow High School addition","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-356"
+
+},{  
+"title": "New Russell School construction","date": "1928-07-26","description": "New Russell School construction","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-357"
+
+},{  
+"title": "Clean up day in the classroom","description": "Clean up day in the classroom","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-358"
+
+},{  
+"title": "School Clean up Day","date": "1990","description": "School Clean up Day","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-359"
+
+},{  
+"title": "Three Moscow Schools","date": "1900","description": "Russell, Irving, and Moscow High Schools, Donor: Smith","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-360"
+
+},{  
+"title": "Carither's Hospital & Gritman Hospital","description": "Carither's and Gritman Hospital, Moscow Donor: Smith","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-361"
+
+},{  
+"title": "Moscow High School","date": "1939","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-362"
+
+},{  
+"title": "Old Post Office","date": "1975","description": "Old Post Office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-363"
+
+},{  
+"title": "St. Mark's Episcopal Church","date": "1975","description": "St. Mark's Episcopal Church, addition ground breaking, Donor: Helen & Bert Cross","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-364"
+
+},{  
+"title": "Moscow High School Auditorium","description": "Moscow High School Auditorium","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-365"
+
+},{  
+"title": "First Latah County Courthouse","description": "First Latah County Courthouse","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-366"
+
+},{  
+"title": "Russell School","date": "1912","description": "Russell School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-367"
+
+},{  
+"title": "Russell School","date": "1912","description": "Russell School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-368"
+
+},{  
+"title": "Moscow High School diploma","date": "1914","description": "Moscow High School diploma (belonging to Alma Lauder or Ralph Lauder) Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho", 
+"id": "01-06-369"
+
+},{  
+"title": "Irving School","date": "1923","description": "Irving School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-370"
+
+},{  
+"title": "Gritman Hospital","date": "1950","description": "Gritman Hospital","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-371"
+
+},{  
+"title": "Cordelia Lutheran Church","date": "1948-05-30","description": "Cordelia Lutheran Church: on front porch, Gov Robbins, Postor Neale Nelson, Frances Olson Graham Donor: M Hauser","subject": "Moscow Public Buildings; Churches; Idaho","location": "4 mi SE of Moscow, ID", 
+"id": "01-06-372"
+
+},{  
+"title": "Cordelia Lutheran Church","date": "1948","description": "Cordelia Lutheran Church, Gov Robbins, Donor: M Hauser","subject": "Moscow Public Buildings; Churches; Idaho","location": "4 mi SE of Moscow, ID", 
+"id": "01-06-373"
+
+},{  
+"title": "Community Center Dedication","date": "1982-06-11","description": "Moscow Community Center Dedication. Was the old Post Office. Flag raising Karl Dressen, American Legion and Don Jensen, CMDR VFW Donor: Donna Bradbury","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-374"
+
+},{  
+"title": "Community Center Dedication","date": "1982","description": "Community Center Dedication, flag presentation","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-375"
+
+},{  
+"title": "Tree planting","date": "1982","description": "Community Center Dedication, Planting trees in honor of Gerald Ingle, Charles Pengill and Robyn Allenstrom, Donor: Donna Bradbury","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-376"
+
+},{  
+"title": "Latah Care Center","date": "1993","description": "Latah Care Center","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-377"
+
+},{  
+"title": "Latah Care Center","date": "1993","description": "Latah Care Center","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-378"
+
+},{  
+"title": "Latah Care Center","date": "1993","description": "Latah Care Center","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-379"
+
+},{  
+"title": "Latah Care Center","date": "1993","description": "Latah Care Center","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-380"
+
+},{  
+"title": "Latah Care Center","date": "1993","description": "Latah Care Center","subject": "Moscow Public Buildings; Community Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-381"
+
+},{  
+"title": "Boxcar with Moscow High School Logo","date": "1979","description": "Moscow High School boxcar Donor: The Spokane Chronicle","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-382"
+
+},{  
+"title": "Old Clothes Day","date": "1921","description": "Moscow High School Old Clothes Day - students pose in front of school, \"boosting for MHS Basketball Team\" Donor: Hazel Jones","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-383"
+
+},{  
+"title": "Latah County Courthouse","date": "1950","description": "Old Latah County Courthouse built in 1888-89, razed in 1958. Location: between 5th and 6th Sts, Adams and Van Buren Donor: B Cross","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-384"
+
+},{  
+"title": "Police Station","date": "1950","description": "Old Police Station east of City Hall at 108 East 4th St Donor: B Cross","subject": "Moscow Public Buildings; Police Station; Idaho","location": "Moscow, ID", 
+"id": "01-06-385"
+
+},{  
+"title": "Moscow High School","date": "1950","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-386"
+
+},{  
+"title": "Moscow High School","date": "1920","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-387"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1976","description": "Pullman Moscow Regional Airport runway Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-388"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1976","description": "Pullman Moscow Regional Airport Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-389"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1976","description": "Pullman Moscow Regional Airport Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-390"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1976","description": "Pullman Moscow Regional Airport Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-391"
+
+},{  
+"title": "Pullman Moscow Regional Airport improvements","date": "1970","description": "Pullman Moscow Regional Airport improvements Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-392"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-393"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-394"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-395"
+
+},{  
+"title": "Olf Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-396"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-397"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-398"
+
+},{  
+"title": "Old Post Office Interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-399"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-400"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-401"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-402"
+
+},{  
+"title": "Old Post Office interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-403"
+
+},{  
+"title": "Old Post Office Interior","date": "1960","description": "Old Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-404"
+
+},{  
+"title": "Moscow City Hall interior","date": "1970","description": "Moscow City Hall interior","subject": "Moscow Public Buildings; City Hall; Idaho","location": "Moscow, ID", 
+"id": "01-06-405"
+
+},{  
+"title": "New Post Office parking lot","date": "1970","description": "New Post Office parking lot","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-406"
+
+},{  
+"title": "Lena Whitmore Elementary School","date": "1970","description": "Lena Whitmore Elementary School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-407"
+
+},{  
+"title": "Emmanuel Lutheran Church","date": "1970","description": "Emmanuel Lutheran Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-408"
+
+},{  
+"title": "Moscow City Hall","date": "1970","description": "Moscow City Hall","subject": "Moscow Public Buildings; City Hall; Idaho","location": "Moscow, ID", 
+"id": "01-06-409"
+
+},{  
+"title": "Moscow High School","date": "1970","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-410"
+
+},{  
+"title": "Old Air Terminal","date": "1960","description": "Old Air Terminal","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-411"
+
+},{  
+"title": "Old Air Terminal","date": "1960","description": "Old Air Terminal","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-412"
+
+},{  
+"title": "Pullman Moscow Regional Airport old terminal interior","date": "1960","description": "Old Air Terminal","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-413"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1960","description": "Pullman Moscow Regional Airport, old terminal departure gate Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-414"
+
+},{  
+"title": "Pullman Moscow Regional Airport arrival gate","date": "1960","description": "Pullman Moscow Regional Airport arrival gate","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-415"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1960","description": "Pullman Moscow Regional Airport: Evergreen Air terminal and private planes Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-416"
+
+},{  
+"title": "Hughes AirWest plane","date": "1960","description": "Hughes AirWest plane","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-417"
+
+},{  
+"title": "Cascade Airways plane","date": "1960","description": "Pullman Moscow Regional Airport: Cascade Airways plane and group of men Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-418"
+
+},{  
+"title": "Pullman Moscow Regional Airport","date": "1960","description": "Pullman Moscow Regional Airport","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-419"
+
+},{  
+"title": "Presbyterian Church","date": "1960","description": "Presbyterian Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-420"
+
+},{  
+"title": "Emmanuel Lutheran Church","date": "1960","description": "Emmanuel Lutheran Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-421"
+
+},{  
+"title": "Latah County Courthouse","date": "1969-11","description": "Latah County Courthouse from corner of 6th and Adams Sts. Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-422"
+
+},{  
+"title": "Latah County Courthouse","date": "1960","description": "Latah County Courthouse front entrance Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-423"
+
+},{  
+"title": "Moscow High School","date": "1960","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-424"
+
+},{  
+"title": "Moscow High School","date": "1960","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-425"
+
+},{  
+"title": "Moscow High School","date": "1960","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-426"
+
+},{  
+"title": "Moscow Manor Apartment House","date": "1960","description": "Parade passing Moscow Manor Apartment House at 1st and Main Sts. Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-427"
+
+},{  
+"title": "Lena Whitmore School","date": "1960","description": "Lena Whitmore School, Moscow, ID: front entrance on Blaine St. Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-428"
+
+},{  
+"title": "Latah County Genealogical Society Display at the Library","date": "1992-03","description": "Latah County Genealogical Society Display at the Library, Donor: D. Schell","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-429"
+
+},{  
+"title": "Presbyterian Church","date": "1950","description": "Presbyterian Church in winter Donor: Cline family","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-430"
+
+},{  
+"title": "Williamson Store","date": "1950","description": "Back of Williamson Store (McConnell McGuire Building) Donor: Cline family","subject": "Moscow Public Buildings; Stores; Idaho","location": "Moscow, ID", 
+"id": "01-06-431"
+
+},{  
+"title": "Presbyterian Church","date": "1900?","description": "Presbyterian Church, Moscow Donor: Latah County Pioneer Association","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-432"
+
+},{  
+"title": "Moscow Post Office interior","date": "1894","description": "Moscow Post Office interior Donor: Latah County Pioneer Association","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-433"
+
+},{  
+"title": "Carither's Hospital","date": "1907-07","description": "Carither's Hospital in the background, Four women in yard near a barn and woodpile.","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-434"
+
+},{  
+"title": "First Moscow High School","date": "1900","description": "First Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-435"
+
+},{  
+"title": "Moscow School Administrative Offices/ personnel","date": "1980","description": "Moscow School Administrative Offices entrance (now 1912 Center) Pictured (L to R): Kathy Dawes, teacher, teacher? Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-436"
+
+},{  
+"title": "Episcopal Church, interior","date": "1980","description": "Episcopal Church, interior","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-437"
+
+},{  
+"title": "St. Mary's Catholic Church","date": "1987","description": "St. Mary's Catholic Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-438"
+
+},{  
+"title": "Presbyterian Church","date": "1990","description": "Presbyterian Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-439"
+
+},{  
+"title": "Ken Parker, Principal, in a classroom","date": "1990","description": "Ken Parker, Principal, showing class a photo of Martin Luther King, Jr. Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-440"
+
+},{  
+"title": "High School government class","date": "1970","description": "Moscow High School, Government Class Joan Bauer, Latah County Clerk explains voting procedure to seniors. Watching are (L to r) Shelly Bobeck, Chris Tylutki and Phill Nordquist. Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-441"
+
+},{  
+"title": "L. Betts in City Hall","date": "1990","description": "L. Betts in City Hall","subject": "Moscow Public Buildings; City Hall; Idaho","location": "Moscow, ID", 
+"id": "01-06-442"
+
+},{  
+"title": "Moscow High School (1912)","date": "1996","description": "Moscow High School (1912) west side","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-445"
+
+},{  
+"title": "Moscow High School (1912), west end","date": "1996","description": "Moscow High School (1912), west end","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-446"
+
+},{  
+"title": "Moscow High School (1912)","date": "1996","description": "Moscow High School (1912)","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-447"
+
+},{  
+"title": "Moscow High School (1912)","date": "1996","description": "Moscow High School (1912)","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-448"
+
+},{  
+"title": "Moscow High School (1912) west entrance","date": "1996","description": "Moscow High School (1912) west entrance","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-449"
+
+},{  
+"title": "Campus Christian Center","date": "1990","description": "Campus Christian Center, art Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-450"
+
+},{  
+"title": "Crane accident at Waste Water Treatment Plant","date": "1989-08","description": "Crane accident at Waste Water Treatment Plant, Moscow City Engineer Dean Weyer is in center of photo. Description of scene is on the back. Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Water Treatment Plant; Idaho","location": "Moscow, ID", 
+"id": "01-06-451"
+
+},{  
+"title": "Gritman Hospital Emergency Room","date": "1984","description": "Gritman Hospital Emergency Room: Nurse, Lenore Kimberling using new telecopier system. Donor: Moscow Daily News","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-453"
+
+},{  
+"title": "Moscow Post Office interior","date": "1950","description": "Moscow Post Office interior","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-454"
+
+},{  
+"title": "Latah County Courthouse interior","date": "1950","description": "Latah County Courthouse interior","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-455"
+
+},{  
+"title": "Moscow Youth Center Celebration","date": "1950","description": "Moscow Youth Center Celebration Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Youth Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-456"
+
+},{  
+"title": "Mosocw High School c1900","date": "1912","description": "Mosocw High School c1900 Donor: Grace Regan","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-457"
+
+},{  
+"title": "Methodist Church interior","date": "1950","description": "Methodist Church interior at Christmas","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-458"
+
+},{  
+"title": "Church of the Nazarene","date": "1950","description": "Church of the Nazarene youth center, Moscow (was Moscow Food Co-op in 1997) Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-459"
+
+},{  
+"title": "Basketball in Moscow High gym","date": "1950","description": "Moscow High School, Basketball Players identified on photo","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-460"
+
+},{  
+"title": "Latah County Sheriff's Office","date": "1964","description": "Latah County Sheriff's office with Speed Lange, on left, holding a pair of women's stockings Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Sheriff's Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-461"
+
+},{  
+"title": "Latah County Courthouse window detail","date": "1960","description": "Old Latah County Courthouse window detail Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-462"
+
+},{  
+"title": "Pleasant Valley School","description": "Pleasant Valley School, approximately 4 miles east of Moscow, Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "4 mi east of Moscow, ID", 
+"id": "01-06-463"
+
+},{  
+"title": "Pine Grove School","description": "Pine Grove School in winter Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "area of Moscow, ID", 
+"id": "01-06-464"
+
+},{  
+"title": "Typing Class","date": "1950","description": "Moscow High Typing class Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-465"
+
+},{  
+"title": "Russell School Gym","date": "1950","description": "Russell School Gym - children doing \"elephant walk\" Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-466"
+
+},{  
+"title": "Methodist Church","date": "1905","description": "Methodist Church","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-467"
+
+},{  
+"title": "Vocational Education","date": "1980","description": "Moscow High School, Vocational Education Lab showing student, Tony Dupont, using a lathe Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-468"
+
+},{  
+"title": "Bill Hagedorn at Police Station","date": "1980","description": "Bill Hagedorn at Police Station","subject": "Moscow Public Buildings; Police Station; Idaho","location": "Moscow, ID", 
+"id": "01-06-469"
+
+},{  
+"title": "Aspendale School","date": "1914","description": "Aspendale School","subject": "Moscow Public Buildings; Schools; Idaho","location": "1 mi south of Tomer Butte", 
+"id": "01-06-470"
+
+},{  
+"title": "Students & teacher at Aspendale School","date": "1914","description": "Ruth Otter's Aspendale School, Students and teacher (Vogel) Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "South of Tomer Butte, ID", 
+"id": "01-06-471"
+
+},{  
+"title": "Moscow High School","date": "1912","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-472"
+
+},{  
+"title": "Moscow High School","date": "1912","description": "Moscow High School sketch Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-473"
+
+},{  
+"title": "1912 Moscow High School tour","date": "1997","description": "1912 Moscow High School tour: (l to r) Linda Pall, Jeanette Talbott (seated), Mary Jo Hamilton Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-474"
+
+},{  
+"title": "1912 Moscow High School tour","date": "1997","description": "1912 Moscow High School tour - Carol Renfrew at the baked goods table Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-475"
+
+},{  
+"title": "1912 Moscow High School tour","date": "1997","description": "1912 Moscow High School tour","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-476"
+
+},{  
+"title": "1912 Moscow High School tour","date": "1997","description": "1912 Moscow High School tour, Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-477"
+
+},{  
+"title": "1912 Moscow High School tour","date": "1997","description": "1912 Moscow High School tour","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-478"
+
+},{  
+"title": "1912 Moscow High School tour","date": "1997","description": "1912 Moscow High School tour","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-479"
+
+},{  
+"title": "High School and Methodist Church","date": "1913","description": "High School and Methodist Church Donor: E. Lillie","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-480"
+
+},{  
+"title": "Moscow High School","date": "1929","description": "Moscow High School","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-481"
+
+},{  
+"title": "Emanuel Lutheran Church","description": "Emanuel Lutheran Church, Moscow Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-482"
+
+},{  
+"title": "Airport runway","description": "Pullman Moscow Regional Airport runway","subject": "Moscow Public Buildings; Airport; Idaho","location": "Pullman, WA", 
+"id": "01-06-483"
+
+},{  
+"title": "County Courthouse","description": "Latah County Courthouse front entrance Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-484"
+
+},{  
+"title": "County Courthouse","description": "Latah County Courthouse front entrance Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-485"
+
+},{  
+"title": "Kitchen","description": "School or hospital kitchen Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-486"
+
+},{  
+"title": "Latah County Courthouse","description": "Latah County Courthouse back entrance Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-487"
+
+},{  
+"title": "Moscow Charter School","date": "1999","description": "Child, Will Gregory, age 6, at a computer in Moscow Charter School Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-488"
+
+},{  
+"title": "Owners of Pies Plus","date": "1999","description": "Pies Plus owners, Mark & Kim Mescall (includes image of news article about the business at the Palouse Mall) Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Stores; Idaho","location": "Moscow, ID", 
+"id": "01-06-489"
+
+},{  
+"title": "Robot at Charter School","date": "1999-12-13","description": "Children with robot at Moscow Charter School Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-490"
+
+},{  
+"title": "Russell School","date": "2000","description": "Students running on playground at Russell School Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-491"
+
+},{  
+"title": "Reading day at St. Mary's School","date": "2000","description": "Reading day at St. Mary's school clipping with photo Donor: Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-492"
+
+},{  
+"title": "1912 Center","date": "2000","description": "Moscow High School, 3rd St entrance Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-493"
+
+},{  
+"title": "1912 Center","date": "2000","description": "Moscow High School (1912), showing sign \"Future home of the1912 Center \" Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-494"
+
+},{  
+"title": "1912 Center","date": "2000","description": "Moscow High School as future home of 1912 Center Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-495"
+
+},{  
+"title": "1912 Center","date": "2000","description": "Moscow High School as future home of the 1912 Center Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-496"
+
+},{  
+"title": "Irving School","date": "1920","description": "Flag raising/lowering at Irving School Donor: Jeanette Talbott","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-497"
+
+},{  
+"title": "St. Mary's Catholic Church","date": "2000","description": "St. Mary's Catholic Church Donor: Julie Monroe","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-498"
+
+},{  
+"title": "1912 Center","date": "2000-05","description": "1912 Center (former Moscow High School) showing flowers outside entrance Donor: Julie Monroe","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-499"
+
+},{  
+"title": "Police Dispatch Center","date": "2000-03-23","description": "Wendy Amador working at Moscow Police dispatch center Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Police Station; Idaho","location": "Moscow, ID", 
+"id": "01-06-500"
+
+},{  
+"title": "West Park School","date": "2000-04","description": "West Park School reading program chain Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-501"
+
+},{  
+"title": "Kenworthy Theater","date": "2000-03-09","description": "Kenworthy Performing Arts Center Director Julie Ketchum pictured with film projector Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Theaters; Idaho","location": "Moscow, ID", 
+"id": "01-06-502"
+
+},{  
+"title": "Moscow High Computer Academy","date": "2000-04","description": "Moscow High School computer academy : pictured are seniors, Mike Arthur and Christian Horn Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-503"
+
+},{  
+"title": "Methodist Church","description": "Methodist Church in winter, image of a stereoptic slide Donors: L. & J. Talbott","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-504"
+
+},{  
+"title": "Methodist Church","description": "Methodist Church, interior, image of a stereoptic slide Donors: L. & J. Talbott","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-505"
+
+},{  
+"title": "1912 Center","date": "2000-04","description": "Cleaners at the 1912 Center Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-506"
+
+},{  
+"title": "McDonald Elementary School","date": "2000-05","description": "McDonald Elementary School mosaics being worked on by Briana Ingeman, Heather Leonard and artist, Maggi Fuhriman Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-507"
+
+},{  
+"title": "First Presbyterian Church organ'","date": "1999-12","description": "First Presbyterian Church organ: Susan Billin, organist, seated at console Donor: Moscow Pullmman Daily News","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-508"
+
+},{  
+"title": "St. Mary's school band","date": "1999-12","description": "St. Mary's School Band Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-509"
+
+},{  
+"title": "Campus Christian Center","date": "1950-03","description": "Ground breaking, Campus Christian Center Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-510"
+
+},{  
+"title": "Latah Health Services","date": "1999-10-01","description": "Tree at Latah Health Services Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-511"
+
+},{  
+"title": "Russell School Class","date": "1999-09","description": "Russell school class Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-512"
+
+},{  
+"title": "Gritman Medication machine","date": "2000-06-02","description": "Gritman Medical Center automatic medicine dispensing cabinet","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow", 
+"id": "01-06-513"
+
+},{  
+"title": "Home Schooling","date": "2000-08","description": "Home schooling, Potter family Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-514"
+
+},{  
+"title": "88th birthday of 1912 High School building","date": "2000-07-08","description": "88th birthday for 1912 building, old MHS; Janet Fiske (newspaper clipping with color copy of photo) Donor: Daily News","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-515"
+
+},{  
+"title": "Shirley Leendertsen's class at Russell School","date": "2000-08-30","description": "Russell Elementary School first grade (2 images: a) Shirley Leendertsen, teacher, receiving an apple from student, Randi Lemons b) Mrs.Shirley Leendertsen with her class) (newspaper clipping with color photo prints) Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-516"
+
+},{  
+"title": "Andy Jacobs at Logos Secondary School","date": "2000-05-19","description": "Andy Jacobs at Logos Secondary School Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-517"
+
+},{  
+"title": "Potter Family home schooling","date": "2000-10","description": "Potter family, home schooling - 2 images: a) Jenna Potter and her mother Karen Potter b) Jill Potter doing a chemistry experiment Donor: Moscow Pullman Daily News","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-518"
+
+},{  
+"title": "First Methodist Church","date": "1940","description": "First Methodist Church, Moscow, ID Donor: J. Wissler","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-519"
+
+},{  
+"title": "Moscow Junior High School","date": "1940","description": "Moscow Junior High School, later the 1912 Center Donor: J. Wissler","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-520"
+
+},{  
+"title": "New Moscow High School","date": "1940","description": "New Moscow High School Donor: J. Wissler","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-521"
+
+},{  
+"title": "Latah County Courthouse","date": "1969-11","description": "Latah County Courthouse Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-522"
+
+},{  
+"title": "McConnell Mansion","date": "1969-11","description": "McConnell Mansion, house museum Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Museums; Idaho","location": "Moscow, ID", 
+"id": "01-06-523"
+
+},{  
+"title": "Moscow High School of 1912","date": "1920","description": "Old Moscow High School of 1912 (as scanned from tablet cover) Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-524"
+
+},{  
+"title": "Ground breaking for MHS renovation to create 1912 Center","date": "2000-10","description": "Ground breaking for remodel of Moscow High School of 1912 to create the 1912 Center Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-525"
+
+},{  
+"title": "Ground breaking for MHS renovation to create 1912 Center","date": "2000-10","description": "Ground breaking for remodel of Moscow High School of 1912 to create the 1912 Center Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-526"
+
+},{  
+"title": "Ground breaking for MHS renovation to create 1912 Center","date": "2000-10","description": "Ground breaking for remodel of Moscow High School of 1912 to create the 1912 Center Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-527"
+
+},{  
+"title": "Ground breaking for MHS renovation to create 1912 Center","date": "2000-10","description": "Ground breaking for remodel of Moscow High School of 1912 to create the 1912 Center Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-528"
+
+},{  
+"title": "Ground breaking for MHS renovation to create 1912 Center","date": "2000-10","description": "Ground breaking for remodel of Moscow High School of 1912 to create the 1912 Center Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-529"
+
+},{  
+"title": "Ground breaking for MHS renovation to create 1912 Center","date": "2000-10","description": "Ground breaking for remodel of Moscow High School to create the 1912 Center Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-530"
+
+},{  
+"title": "Moscow City Hall on 4th St.","date": "1960","description": "Moscow City Hall on 4th street","subject": "Moscow Public Buildings; City Hall; Idaho","location": "Moscow, ID", 
+"id": "01-06-531"
+
+},{  
+"title": "Moscow Post Office interior","date": "1960","description": "Interior, Moscow Post Office Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-532"
+
+},{  
+"title": "Old Post Office/Community Center","date": "1960","description": "Old post office/community center, 3rd and Washington Sts. Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-533"
+
+},{  
+"title": "Emmanuel Lutheran Church","date": "1960","description": "Emmanuel Lutheran Church Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-534"
+
+},{  
+"title": "Appaloosa Horse Club Museum","date": "1960","description": "Appaloosa Horse Club museum Donor: Moscow Chamber of Commerce","subject": "Moscow Public Buildings; Museums; Idaho","location": "Moscow, ID", 
+"id": "01-06-535"
+
+},{  
+"title": "Norwegian Lutheran Church","description": "Norwegian Lutheran church Donor: Kit Timmons","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-536"
+
+},{  
+"title": "Russell School second grade, 1948-49","description": "second grade class, Russell School Room 12 (teacher, Mrs. Vaagen) Donors: Pat and Sharon Wells","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-537"
+
+},{  
+"title": "Methodist Church under construction","description": "Methodist Church under construction Donors: Jeanette Talbot from Ruth Vogel and Clifford Ott","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-538"
+
+},{  
+"title": "Library Comcat","date": "2000","description": "Moscow Public Library Comcat (microfiche reader) Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-539"
+
+},{  
+"title": "Library's tapes and record albums","date": "2000","description": "Moscow Public Library tapes and record album section Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-540"
+
+},{  
+"title": "Library's staff office, Anne Cheadle","date": "2000","description": "Moscow Public staff office, Anne Cheadle Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-541"
+
+},{  
+"title": "Library's staffer, Cindy Mead","date": "2000","description": "Moscow Public staff office, Cindy Mead, operations and automation supervisor Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-542"
+
+},{  
+"title": "Library volunteer Mel Jackson","date": "2000-09","description": "Moscow Public Library volunteer, Mel Jackson, on his 85th birthday, with Adult Services Librarian, Chris Sokol Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-543"
+
+},{  
+"title": "Library's Used book donations","date": "2000-05","description": "Moscow Public Library : used book donations Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-544"
+
+},{  
+"title": "Library's Anne Cheadle","date": "2000-05","description": "Moscow Public Library : Anne Cheadle, circulation supervisor Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-545"
+
+},{  
+"title": "Library's Storytime","date": "2000","description": "Moscow Public Library's Storytime Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-546"
+
+},{  
+"title": "Library's Lori Keenan","date": "2000","description": "Moscow Public Library: Lori Keenan, retired Latah County Library District Director Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-547"
+
+},{  
+"title": "Library's interior","date": "2000","description": "Moscow Public Library interior , children's section Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-548"
+
+},{  
+"title": "Library's interior","date": "1970-09","description": "Study group for new Moscow Library at first meeting Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-549"
+
+},{  
+"title": "Library's circulation desk","description": "Moscow Public Library circulation desk Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-550"
+
+},{  
+"title": "Library's Marian Neff","date": "2000-05","description": "Moscow Public Library : Marian Neff, part time shelver, full time law student Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-551"
+
+},{  
+"title": "LCL bookmobile chassis","date": "1970","description": "Latah County Library : bookmobile chassis Donors: Note: Gary Strong (LCHS member) drove bookmobile 1965-1966 -- as told to Dulce Kersting by Mr. Strong","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-552"
+
+},{  
+"title": "LCFL Bookmobile","date": "1970","description": "Latah County Free Library Bookmobile (the first bookmobile): Frank Hart of Hart Motors, who built the body, stands in the entrance Donors: Note: Gary Strong (LCHS member) drove bookmobile 1965-1966 -- as told to Dulce Kersting by Mr. Strong","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-553"
+
+},{  
+"title": "LCFL Bookmobile & Frank Hart","date": "1970","description": "Moscow Latah County Library System Bookmobile (the second bookmobile): Frank Hart of Hart Motors, who built the body, standing near the truck Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-554"
+
+},{  
+"title": "LCFL Bookmobile & Frank Hart","date": "1970","description": "Moscow Latah County Library System Bookmobile (the second bookmobile): body being built at Hart Motors, Moscow Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-555"
+
+},{  
+"title": "LCFL Bookmobile","date": "1970","description": "Latah County Free Library Bookmobile (the first bookmobile): Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-556"
+
+},{  
+"title": "LCL Bookmobile","date": "1970","description": "Moscow Latah County Library System Bookmobile (the second bookmobile): Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-557"
+
+},{  
+"title": "LCL Bookmobile interior","date": "1970","description": "Moscow Latah County Library System Bookmobile (the first bookmobile): view in through the front windshield Donors:","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-558"
+
+},{  
+"title": "LCL Bookmobile at the Moscow Library","date": "1970","description": "Moscow Latah County Library System Bookmobile (second bookmobile): parked in the Moscow Library driveway.","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-559"
+
+},{  
+"title": "LCL Bookmobile at the Moscow Library","date": "1970","description": "Moscow Latah County Library System Bookmobile (second bookmobile): parked in the Moscow Library driveway.","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-560"
+
+},{  
+"title": "LCL Bookmobile with Edythe Alexander","date": "1963","description": "Moscow Latah County Free Library System's first bookmobile with Edythe Alexander","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-561"
+
+},{  
+"title": "Moscow Public Library","date": "1905","description": "newly constructed Moscow Public Library, a Carnegie library (not landscaped)","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-562"
+
+},{  
+"title": "Moscow Public Library","description": "Moscow Public Library, a Carnegie library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-563"
+
+},{  
+"title": "Moscow Public Library","description": "Moscow Public Library, a Carnegie library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-564"
+
+},{  
+"title": "Moscow Public Library","description": "Moscow Public Library, a Carnegie library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-565"
+
+},{  
+"title": "Moscow Public Library","description": "Moscow Public Library, a Carnegie library - front entrance","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-566"
+
+},{  
+"title": "Moscow Public Library, a Carnegie Library","description": "postcard captioned \"Carnegie Library, Moscow, Idaho\"","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-567"
+
+},{  
+"title": "Moscow Public Library, a Carnegie Library","description": "Moscow Public Library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-568"
+
+},{  
+"title": "Moscow Public Library, a Carnegie Library","date": "1908","description": "Moscow Public Library, newly built Carnegie Library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-569"
+
+},{  
+"title": "Latah County Library staff","date": "1998","description": "Latah County Library District staff: (left to right) Sandy Taylor, Branch Supervisor, Troy John Pool, Automotive Co-ordinator, Moscow Cindy Meads, Operations Supervisor, Moscow Connie Anderson, Chalker, Operations, Moscow Sue Hotinger, Bovill & Deary Supervisor","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-570"
+
+},{  
+"title": "Storytime at Moscow Public Library","date": "2001","description": "Storytime at Moscow Public Library with Sally Perrine, Library Assistant","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-571"
+
+},{  
+"title": "Latah County Library staff","date": "1998","description": "Latah County Library District staff: (left to right) Sheila Guernsey, Technical Services, Moscow Julie Monroe, Technical Services, Moscow June Falk, Circulation, Moscow Mildred Hoskins, Circulation, Moscow Betsy Bybell, Branch Supervisor, Moscow","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-572"
+
+},{  
+"title": "Latah County Library staff","date": "1998","description": "Latah County Library District staff: (left to right) Jan Wells, Branch Supervisor, Juliaetta Don Croker, Automotive Co-ordinator & Circulation, Moscow Jennifer Cromer, Circulation, Moscow Sandy Taylor John Pool","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-573"
+
+},{  
+"title": "Historic photo display at Moscow Public Library","date": "1987-09","description": "Moscow Public Library historic photo display captioned \"Still Reading After All These Years\" and woman holding sign \"Announcing the Library Com Cat\"","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-574"
+
+},{  
+"title": "Moscow Public Library","date": "1983","description": "Moscow Public Library","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-575"
+
+},{  
+"title": "Moscow Public Library's new addition","date": "1983","description": "Moscow Public Library's new addition","subject": "Moscow Public Buildings; Library; Idaho","location": "Moscow, ID", 
+"id": "01-06-576"
+
+},{  
+"title": "Presbyterian Church after remodeling","date": "1914-04-26","description": "Presbyterian Church front after 1914 remodeling with congregation posed in front (from Presbyterian Church collection)","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-577"
+
+},{  
+"title": "old Moscow Post Office","description": "old Moscow Post Office","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-578"
+
+},{  
+"title": "Russell School grade 1-B","date": "1930-01-24","description": "Russell School grade 1-B; Mrs. Colllins, teacher Donor: Harriot Hagedorn","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-579"
+
+},{  
+"title": "Hospital","date": "1930-01-24","description": "Hospital Donor: G. Del Valle","subject": "Moscow Public Buildings; Hospital; Idaho","location": "Moscow, ID", 
+"id": "01-06-580"
+
+},{  
+"title": "Pinegrove School children, 1918","date": "1918","description": "Pinegrove school children (school was later renamed Mountain View School) Left to right: top row: Clarence Stephenson, Laurence Bingman, Robert Bingman, Helena Bateman 2nd row down: Effie Crosier, Leona Bateman, Willie Bingman, Katherine Humphrey, Harold Thoresen, Georgia Showalter, Pearl Tooley, Edith Stephenson, Edyth Nelson 3rd row down: Winifred Bateman, Violet Smith, Robert Nelson, Rhoda Bateman, Lloyd Fluger?, Blanche Stephenson, Laura Fluger 2nd row: Alice Barthles, Robert Bateman, Leota Purdy, Winifred Bingman Front: Luella Crosier, Leonard Showlater","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-581"
+
+},{  
+"title": "McConnell Mansion","description": "McConnell Mansion from the southwest corner at 2nd and Adams Sts.","subject": "Moscow Public Buildings; Museums; Idaho","location": "Moscow, ID", 
+"id": "01-06-582"
+
+},{  
+"title": "Latah County Courthouse","description": "Latah County Courthouse","subject": "Moscow Public Buildings; Courthouse; Idaho","location": "Moscow, ID", 
+"id": "01-06-583"
+
+},{  
+"title": "Saint Mary's School entrance","description": "Saint Mary's School entrance","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-584"
+
+},{  
+"title": "Moscow High School entrance","description": "Moscow High School entrance","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-585"
+
+},{  
+"title": "Well #7","date": "1961-04-17","description": "Moscow Water Department's Well #7","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-586"
+
+},{  
+"title": "Moscow's 3rd St. looking east","description": "view of 3rd St toward east from downtown, in winter, showing old post office, the First United Methodist Church and early schools","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-587"
+
+},{  
+"title": "Moscow's 3rd St. looking north from courthouse","description": "View of 3rd St looking north from the courthouse, showing old post office, the First United Methodist Church and Moscow High School (now the 1912 Center). This image was used as a Christmas greeting card.","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-588"
+
+},{  
+"title": "1912 Center tree removal","date": "2012","description": "tree removal at the 1912 Center prior to building a parking lot on the west side of the building","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-589"
+
+},{  
+"title": "1912 Center tree removal","date": "2012","description": "tree removal at the 1912 Center prior to building a parking lot on the west side of the building","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-590"
+
+},{  
+"title": "1912 Center tree removal","date": "2012","description": "tree removal at the 1912 Center prior to building a parking lot on the west side of the building","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-591"
+
+},{  
+"title": "1912 Center tree removal","date": "2012","description": "tree removal at the 1912 Center prior to building a parking lot on the west side of the building","subject": "Moscow Public Buildings; Schools; 1912 Center; Idaho","location": "Moscow, ID", 
+"id": "01-06-592"
+
+},{  
+"title": "McConnell Mansion","date": "2012","description": "McConnell Mansion","subject": "Moscow Public Buildings; Museums; Idaho","location": "Moscow, ID", 
+"id": "01-06-593"
+
+},{  
+"title": "McConnell Mansion","date": "2012","description": "McConnell Mansion","subject": "Moscow Public Buildings; Museums; Idaho","location": "Moscow, ID", 
+"id": "01-06-594"
+
+},{  
+"title": "Norwegian Church","description": "Norwegian Church on Second St. at Van Buren (later a Unitarian Universalist church)","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-595"
+
+},{  
+"title": "Good Samaritan Village","description": "Good Samaritan Village, a retirement community opened in 1976","subject": "Moscow Public Buildings; ; Idaho","location": "Moscow, ID", 
+"id": "01-06-596"
+
+},{  
+"title": "Mary Reed in front of the McConnell Mansion","date": "1986-11-26","description": "Mary Reed standing in front of the McConnell Mansion Museum. b/w","subject": "Moscow Public Buildings; Museums; Idaho","location": "Moscow, ID", 
+"id": "01-06-597"
+
+},{  
+"title": "Church at 217 E. Sixth St.","date": "1987","description": "Church at 217 E. Sixth St., Moscow purchased in 2008 by All Souls Christian Church from NW Home Baptist Mission Board; built in 1876-87 by First United Methodist Church of Moscow. In 1904 it became Our Savior's Norwegian Lutheran Church. From 1968 to 2007 the Baptists held services in the church (see","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-598"
+
+},{  
+"title": "First Baptist Church","date": "1958","description": "A group standing in front of the First Baptist Church located on 1st Street and Jackson Streets in Moscow.","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-599"
+
+},{  
+"title": "McDonald Elementary School","date": "1981-04-02","description": "A portable building behind the A. B. McDonald Elementary School.","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-600"
+
+},{  
+"title": "First Presbyterian Church","date": "1906","description": "First Presbyterian Church, built in 1883 at the S. W. corner of 4th and Van Buren Streets in Moscow, Idaho. Picture taken by M. L. Ronig who lived at the SE corner of D St. & Main Street. Picture taken circa 1906.","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-601"
+
+},{  
+"title": "First Presbyterian Church","description": "Large group in front of the First Presbyterian Church, built in 1883 at the S. W. corner of 4th and Van Buren Streets in Moscow, Idaho. Photograph was taken sometime after the basement was built in 1932.","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-602"
+
+},{  
+"title": "First Presbyterian Church","date": "1955-07-13","description": "People in front of the First Presbyterian Church, on July 13, 1955. Photograph taken by Clifford Ott.","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-603"
+
+},{  
+"title": "First Presbyterian Church","date": "1955-07-13","description": "Front entrance of the First Presbyterian Church, on July 13, 1955. The readerboard in front of the church lists the sermon as \"Prudes and Prodigals\" by Harry D. Johns, pastor. Photograph taken by Clifford Ott.","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-604"
+
+},{  
+"title": "High School","description": "The High School, Moscow, Idaho. Exterior view of the high school in Moscow, Idaho.","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-605"
+
+},{  
+"title": "Russell School","description": "Russell's High School, Moscow, Idaho. Exterior view of Russell school in Moscow, Idaho.","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-606"
+
+},{  
+"title": "Post Office","description": "No. 5, Post Office Moscow, Idaho. Post Office (federal building) in Moscow, Idaho circa 1915.","subject": "Moscow Public Buildings; Post Office; Idaho","location": "Moscow, ID", 
+"id": "01-06-607"
+
+},{  
+"title": "First Baptist Church","date": "1969","description": "First Baptist Church at First and Jackson Sts, Moscow, ID","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-608"
+
+},{  
+"title": "costume party at St. Marks's Episcopal Church Guild Hall","date": "1926","description": "Costume party at St. Marks's Episcopal Church guild hall \"The Guild Hall served [several church functions]. But more important to the community, on weekdays, the hall was open to outsiders for social activities and amateur plays. Many private parties and dances were held in the hall... In December of 1916, the ranting evangelist, Bulgin, held forth in a circus tent on the vacant lot by the post office on Third Street. He was strong on fire and brimstone in the hereafter and warned 'God help you mothers who permit your innocent daughters to attend dances.' As a result all dancing was forbidden at high school parties. Father Watson, beloved rector at St. Mark's at the time, invited any young people who wanted to dance to come over to the Guild Hall, and this became a haven for well-chaperoned and orderly parties. Bulgin went on his way with pockets well-lined with cash from earnest, self-denying evangelical church members, but left an aftermath of intolerance from which the community was a long time recovering.\" - Abe Goff (1899-1984) The guild hall burned along with the church and rectory in a devastating fire August 14, 1937. Previously labeled as 30-04-095 but renumbered after identified as St Mark's (Feb 2021)","subject": "Moscow Public Buildings; Churches; Idaho","location": "Moscow, ID", 
+"id": "01-06-609"
+
+},{  
+"title": "First Moscow High School","description": "First Moscow High School (postcard sent to Mrs. F. M. Green of Troy, ID)","subject": "Moscow Public Buildings; Schools; Idaho","location": "Moscow, ID", 
+"id": "01-06-610"
+
 }];
