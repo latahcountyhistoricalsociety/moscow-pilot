@@ -1,15 +1,6 @@
-# CollectionBuilder-CSV
+# moscow-pilot
 
-**Note: CollectionBuilder-CSV is currently in an active development phase and my differ significantly from the main CollectionBuilder documentation, including the metadata template. Please check "docs" folder in this project for up to date information.**
-
-CollectionBuilder-CSV is a "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-
-[Google Sheets Metadata Template](https://docs.google.com/spreadsheets/d/1nN_k4JQB4LJraIzns7WcM3OXK-xxGMQhW1shMssflNM/edit?usp=sharing)
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-Check [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for information about getting started.
+Demonstration digital collection for [Latah Country Historical Society](https://www.latahcountyhistoricalsociety.org/) featuring Historic Images of Moscow, Idaho.
 
 ----------
 
